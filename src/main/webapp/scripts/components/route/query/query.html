@@ -1,0 +1,69 @@
+<div ng-controller="RouteQueryController">
+    <form class="form-inline">
+        <!-- Start -->
+        <div class="container">
+            <div class="form-group">
+                <label class="control-label">Start</label>
+                <input class="form-control" ng-model="query.start.place" type="text"
+                       typeahead="place as place.name for place in getLocation($viewValue)">
+            </div>
+            <div class="form-group">
+                <label class="control-label">Period</label>
+
+                <div class="input-group">
+                    <input class="form-control" datepicker-popup is-open="isSPSOpen" ng-model="query.start.period.start"
+                           ng-required="true" type="text"/>
+                    <span class="input-group-btn">
+						<button class="btn btn-default" ng-click="toggleOpenDatePicker($event,'isSPSOpen')"
+                                type="button"><i
+                                class="glyphicon glyphicon-calendar"></i></button>
+					</span>
+                </div>
+                <div class="input-group">
+                    <input class="form-control" datepicker-popup is-open="isEPEOpen" ng-model="query.end.period.end"
+                           ng-required="true" type="text"/>
+                    <span class="input-group-btn">
+						<button class="btn btn-default" ng-click="toggleOpenDatePicker($event,'isEPEOpen')"
+                                type="button"><i
+                                class="glyphicon glyphicon-calendar"></i></button>
+					</span>
+                </div>
+            </div>
+            <!-- End -->
+            <!--
+            <div class="form-group">
+                <label class="control-label">End</label>
+                <input type="text" class="form-control" ng-model="query.end.place"
+                       typeahead="place as place.name for place in getLocation($viewValue)">
+            </div>-->
+        </div>
+        <!-- Stops -->
+        <div class="container">
+            <div class="form-group">
+                <label class="control-label">Stops</label>
+
+                <div class="form-group" ng-repeat="stop in query.stops">
+                    <input class="form-control" max="99" min="0" ng-model="stop.place"
+                           placeholder="Place" type="text"
+                           typeahead="place as place.name for place in getLocation($viewValue)"/>
+                    <input class="form-control" min="1" ng-model="stop.nights.start" type="number"/>
+                    <!--
+                    <input type="number" class="form-control" ng-model="stop.nights.start" min="1"
+                           max="{{stop.nights.end}}"/>
+                    <input type="number" class="form-control" ng-model="stop.nights.end" min="{{stop.nights.start}}"
+                           max="60"/>-->
+
+                    <button class="btn btn-default" ng-click="removeStop(stop)" type="button"><i
+                            class="glyphicon glyphicon-remove"></i></button>
+                </div>
+                <button class="btn btn-default" ng-click="addStop()" ng-disabled="!canAddStop()" type="button"><i
+                        class="glyphicon glyphicon-plus"></i>
+                </button>
+            </div>
+        </div>
+        <button class="btn btn-default" ng-click="searchRoutes()"
+                type="button">Search
+        </button>
+    </form>
+    <pre>Query: {{query | json}}</pre>
+</div>

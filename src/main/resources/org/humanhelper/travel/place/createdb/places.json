@@ -1,0 +1,217 @@
+[
+  {
+    "id": "PH",
+    "regions": [
+      {
+        "name": "Cebu City",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "Pier 4",
+            "kind": "seaport",
+            "location": {
+              "name": "Cebu Supercat terminal",
+              "type": "osm"
+            }
+          },
+          {
+            "name": "North Bus Terminal",
+            "kind": "bus",
+            "location": {
+              "name": "North Bus Terminal Cebu",
+              "type": "osm"
+            }
+          },
+          {
+            "name": "South Bus Terminal",
+            "kind": "bus",
+            "location": {
+              "name": "South Bus Terminal Cebu",
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tagbilaran City",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "Port of Tagbilaran City",
+            "kind": "seaport",
+            "location": {
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Calapan City",
+        "kind": "region",
+        "location": {
+          "type": "osm"
+        },
+        "childs": [
+          {
+            "name": "Calapan Port",
+            "kind": "seaport",
+            "location": {
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Batangas City",
+        "kind": "region",
+        "location": {
+          "type": "osm"
+        },
+        "childs": [
+          {
+            "name": "Batangas Pier",
+            "kind": "seaport",
+            "location": {
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Ormoc",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "Ferry terminal",
+            "kind": "seaport",
+            "location": {
+              "name": "Ormoc Supercat terminal",
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bacolod",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "Ferry terminal",
+            "kind": "seaport",
+            "location": {
+              "name": "Bacolod Ocean Jet Ferry Terminal",
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Iloilo",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "New Iloilo Ferry Terminal",
+            "kind": "seaport",
+            "location": {
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Boracay",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "Cagban Jetty",
+            "kind": "seaport",
+            "location": {
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Dumaguete",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "Ceres Bus Terminal",
+            "kind": "bus",
+            "location": {
+              "name": "dumaguete ceres bus terminal",
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bayawan",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "Ceres Bus Terminal",
+            "kind": "bus",
+            "location": {
+              "name": "bayawan ceres bus terminal",
+              "type": "osm"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Maya",
+        "kind": "region",
+        "location": {
+          "name": "Maya Philippines",
+          "type": "osm"
+        },
+        "childs": [
+          {
+            "name": "Maya Malapascua Ferry Terminal",
+            "kind": "seaport",
+            "location": {
+              "type": "manual",
+              "value": "(11.274039904671213, 124.06388282775879)"
+            }
+          },
+          {
+            "name": "Pantalan",
+            "kind": "bus",
+            "location": {
+              "type": "manual",
+              "value": "(11.27408199188953, 124.06302452087402)"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Malapascua Island",
+        "kind": "region",
+        "childs": [
+          {
+            "name": "Ferry Terminal",
+            "kind": "seaport",
+            "location": {
+              "type": "manual",
+              "value": "(11.3263074732739, 124.11259174346924)"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ID",
+    "regions": [
+      {
+        "name": "Pulau Derawan",
+        "kind": "island",
+        "location": {
+          "type": "manual",
+          "value": "(2.284665, 118.243298)"
+        }
+      }
+    ]
+  }
+]

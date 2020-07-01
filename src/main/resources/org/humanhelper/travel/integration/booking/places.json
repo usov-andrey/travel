@@ -1,0 +1,8912 @@
+[
+  {
+    "kind": "region",
+    "name_ru": "Нуса Пенида",
+    "id": "nusa-penida",
+    "name": "Nusa Penida",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      115.54384,
+      -8.7212
+    ],
+    "targets": [],
+    "hotels": 6,
+    "childs": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Аэропорт Абдул Рейчмен Сале",
+    "name_de": "Flughafen Abdul Rachman Saleh",
+    "name_zh_CN": "阿卜杜勒·拉赫曼萨利赫机场",
+    "name_tr": "Abdul Rachman Saleh Havaalanı",
+    "name_fr": "Aéroport de Malang - Abdul Rahman Saleh",
+    "name_es": "Aeropuerto Abdul Rachman Saleh",
+    "name_it": "Aeroporto Rachman Saleh",
+    "code": "mlg",
+    "id": "mlg",
+    "name": "Abdul Rachman Saleh Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Международный аэропорт им. Ахмада Яни",
+    "name_de": "Flughafen Achmad Yani International",
+    "name_zh_CN": "三宝垄机场",
+    "name_tr": "Achmad Yani Uluslararası Havaalanı",
+    "name_fr": "Aéroport de Semarang - Achmad Yani",
+    "name_es": "Aeropuerto internacional Achmad Yani",
+    "name_it": "Aeroporto Ahmad Yani",
+    "code": "srg",
+    "id": "srg",
+    "name": "Achmad Yani International Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Аэропорт Адисукипто",
+    "name_de": "Flughafen Adisucipto",
+    "name_zh_CN": "日惹机场",
+    "name_tr": "Adisucipto Havaalanı",
+    "name_fr": "Aéroport de Yogyakarta - Adisucipto",
+    "name_es": "Aeropuerto Adisucipto",
+    "name_it": "Aeroporto Adisucipto",
+    "name_th": "สนามบินอดิซูซิปโต",
+    "code": "jog",
+    "id": "jog",
+    "name": "Adisucipto Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      110.432,
+      -7.78806
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Аэропорт Адисумармо",
+    "name_de": "Flughafen Adisumarmo",
+    "name_zh_CN": "梭罗机场",
+    "name_tr": "Adisumarmo Havaalanı",
+    "name_fr": "Aéroport de Solo - Adisumarno",
+    "name_es": "Aeropuerto Adisumarmo",
+    "name_it": "Aeroporto Adi Sumarmo",
+    "name_th": "สนามบินอดิสุมาร์โม",
+    "code": "soc",
+    "id": "soc",
+    "name": "Adisumarmo Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      110.757,
+      -7.51583
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Babullah",
+    "name_zh_CN": "特尔纳特机场",
+    "name_tr": "Babullah Havaalanı",
+    "name_fr": "Aéroport de Ternate - Babullah",
+    "name_es": "Aeropuerto de Babullah",
+    "name_it": "Aeroporto Babullah",
+    "code": "tte",
+    "id": "tte",
+    "name": "Babullah Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Аэропорт Денпасар Бали",
+    "name_de": "Flughafen Ngurah Rai",
+    "name_zh_CN": "峇里岛伍拉·赖机场",
+    "name_tr": "Bali Ngurah Rai Havaalanı",
+    "name_fr": "Aéroport de Denpasar Ngurah Rai",
+    "name_es": "Aeropuerto internacional de Bali Denpasar",
+    "name_it": "Aeroporto di Bali Denpasar",
+    "name_th": "สนามบินนานาชาติบาหลีเดนปาซาร์",
+    "code": "dps",
+    "id": "dps",
+    "name": "Bali Denpasar International Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      115.167,
+      -8.74413
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "code": "bbi",
+    "id": "bbi",
+    "name": "Biju Patnaik International Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      85.816,
+      20.2543
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Bubung",
+    "name_zh_CN": "布邦机场",
+    "name_tr": "Bubung Havaalanı",
+    "name_fr": "Aéroport de Bubung",
+    "name_es": "Aeropuerto de Bubung",
+    "name_it": "Aeroporto di Bubung",
+    "code": "luw",
+    "id": "luw",
+    "name": "Bubung Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Eltari",
+    "name_zh_CN": "艾尔塔里机场",
+    "name_tr": "Eltari Havaalanı",
+    "name_fr": "Aéroport de Kupang - El Tari",
+    "name_es": "Aeropuerto de Eltari",
+    "name_it": "Aeroporto Eltari",
+    "code": "koe",
+    "id": "koe",
+    "name": "Eltari Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Frans Kaisiepo",
+    "name_zh_CN": "比亚克机场",
+    "name_tr": "Frans Kaisiepo Havaalanı",
+    "name_fr": "Aéroport de Biak - Frans Kaisiepo",
+    "name_es": "Aeropuerto Frans Kaisiepo",
+    "name_it": "Aeroporto Frans Kaisiepo",
+    "code": "bik",
+    "id": "bik",
+    "name": "Frans Kaisiepo Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Halim Perdanakusuma",
+    "name_zh_CN": "哈利姆·珀达纳库苏马机场",
+    "name_tr": "Halim Perdanakusuma Havaalanı",
+    "name_fr": "Aéroport d'Halim Perdanakusuma",
+    "name_es": "Aeropuerto Halim Perdanakusuma",
+    "name_it": "Aeroporto Halim Perdana Kusuma",
+    "name_th": "สนามบินฮาลิมเปอร์ดานากุสุมา",
+    "code": "hlp",
+    "id": "hlp",
+    "name": "Halim Perdanakusuma Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      106.886,
+      -6.26571
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Haluoleo",
+    "name_zh_CN": "肯达里机场",
+    "name_tr": "Haluoleo Havaalanı",
+    "name_fr": "Aéroport d'Haluoleo",
+    "name_es": "Aeropuerto de Haluoleo",
+    "name_it": "Aeroporto Haluoleo",
+    "code": "kdi",
+    "id": "kdi",
+    "name": "Haluoleo Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Hang Nadim",
+    "name_zh_CN": "杭扎机场",
+    "name_tr": "Hang Nadim Havaalanı",
+    "name_fr": "Aéroport de Batam - Hang Nadim",
+    "name_es": "Aeropuerto de Hang Nadim",
+    "name_it": "Aeroporto Hang Nadim",
+    "code": "bth",
+    "id": "bth",
+    "name": "Hang Nadim Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Hasanuddin",
+    "name_zh_CN": "哈桑丁机场",
+    "name_tr": "Hasanuddin Havaalanı",
+    "name_fr": "Aéroport de Makassar - Hasanuddin",
+    "name_es": "Aeropuerto Hasanuddin",
+    "name_it": "Aeroporto Hasanuddin",
+    "code": "upg",
+    "id": "upg",
+    "name": "Hasanuddin Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      119.546,
+      -5.06278
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Husein Sastranegara",
+    "name_zh_CN": "万隆机场",
+    "name_tr": "Husein Sastranegara Havaalanı",
+    "name_fr": "Aéroport de Bandung - Husein Sastranegara",
+    "name_es": "Aeropuerto Husein Sastranegara",
+    "name_it": "Aeroporto Husein Sastranegara",
+    "name_th": "สนามบินฮูเซนศาสตราเนการา",
+    "code": "bdo",
+    "id": "bdo",
+    "name": "Husein Sastranegara Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      107.575,
+      -6.89501
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Аэропорт Сукарно Хатта",
+    "name_de": "Flughafen Soekarno Hatta",
+    "name_zh_CN": "苏加诺-哈达机场",
+    "name_tr": "Cakarta Soekarno Hatta Havaalanı",
+    "name_fr": "Aéroport international de Jakarta Soekarno-Hatta",
+    "name_es": "Aeropuerto de Jakarta Soekarno Hatta",
+    "name_it": "Aeroporto Internazionale di Giacarta Soekarno–Hatta",
+    "name_th": "สนามบินนานาชาติซูการ์โนฮัตตา",
+    "code": "cgk",
+    "id": "cgk",
+    "name": "Jakarta Soekarno Hatta Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      106.654,
+      -6.12658
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Jefman",
+    "name_zh_CN": "苏朗机场",
+    "name_tr": "Jefman Havaalanı",
+    "name_fr": "Aéroport de Sorong - Jefman",
+    "name_es": "Aeropuerto de Jefman",
+    "name_it": "Aeroporto Jefman",
+    "code": "soq",
+    "id": "soq",
+    "name": "Jefman Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Аэропорт Сурабайя Джуанда",
+    "name_de": "Flughafen Juanda",
+    "name_zh_CN": "朱安达国际机场",
+    "name_tr": "Juanda Uluslararası Havaalanı",
+    "name_fr": "aéroport international de Surabaya Juanda",
+    "name_es": "Aeropuerto internacional de Juanda",
+    "name_it": "Aeroporto Internazionale Juanda",
+    "name_th": "สนามบินนานาชาติจูอันดา",
+    "code": "sub",
+    "id": "sub",
+    "name": "Juanda International Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      112.795,
+      -7.37498
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Ketapang",
+    "name_zh_CN": "吉打邦机场",
+    "name_tr": "Ketapang Havaalanı",
+    "name_fr": "Aéroport de Ketapang",
+    "name_es": "Aeropuerto de Ketapang",
+    "name_it": "Aeroporto di Ketapang",
+    "code": "ktg",
+    "id": "ktg",
+    "name": "Ketapang Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Международный аэропорт Ломбок",
+    "code": "lop",
+    "id": "lop",
+    "name": "Lombok International Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      116.277,
+      -8.75732
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Minangkabau",
+    "name_zh_CN": "巴东机场",
+    "name_tr": "Minangkabau Uluslararası Havaalanı",
+    "name_fr": "Aéroport de Padang - Minangkabau",
+    "name_es": "Aeropuerto internacional de Minangkabau",
+    "name_it": "Aeroporto Internazionale Minangkabau",
+    "code": "pdg",
+    "id": "pdg",
+    "name": "Minangkabau International Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Mopah",
+    "name_zh_CN": "马老奇机场",
+    "name_tr": "Mopah Havaalanı",
+    "name_fr": "Aéroport de Merauke - Mopah",
+    "name_es": "Aeropuerto de Mopah",
+    "name_it": "Aeroporto Mopah",
+    "code": "mkq",
+    "id": "mkq",
+    "name": "Mopah Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Mutiara",
+    "name_zh_CN": "帕卢机场",
+    "name_tr": "Mutiara Havaalanı",
+    "name_fr": "Aéroport de Palu - Mutiara",
+    "name_es": "Aeropuerto de Mutiara",
+    "name_it": "Aeroporto Mutiara",
+    "code": "plw",
+    "id": "plw",
+    "name": "Mutiara Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Palangkaraya",
+    "name_zh_CN": "帕朗卡拉亚机场",
+    "name_tr": "Palangkaraya Havaalanı",
+    "name_fr": "Aéroport de Palangkaraya",
+    "name_es": "Aeropuerto de Palangkaraya",
+    "name_it": "Aeroporto di Palangkaraya",
+    "code": "pky",
+    "id": "pky",
+    "name": "Palangkaraya Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Pangkalanbuun",
+    "name_zh_CN": "庞卡兰布翁机场",
+    "name_tr": "Pangkalanbuun Havaalanı",
+    "name_fr": "Aéroport de Pangkalan Bun",
+    "name_es": "Aeropuerto de Pangkalanbuun",
+    "name_it": "Aeroporto di Pangkalan Bun",
+    "code": "pkn",
+    "id": "pkn",
+    "name": "Pangkalanbuun Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Pangkalpinang",
+    "name_zh_CN": "邦加槟港机场",
+    "name_tr": "Pangkalpinang Havaalanı",
+    "name_fr": "Aéroport de Pangkal Pinang",
+    "name_es": "Aeropuerto de Pangkalpinang",
+    "name_it": "Aeroporto di Pangkal Pinang",
+    "code": "pgk",
+    "id": "pgk",
+    "name": "Pangkalpinang Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Pattimura",
+    "name_zh_CN": "安汶机场",
+    "name_tr": "Pattimura Havaalanı",
+    "name_fr": "Aéroport d'Ambon - Pattimura",
+    "name_es": "Aeropuerto de Pattimura",
+    "name_it": "Aeroporto Pattimura",
+    "code": "amq",
+    "id": "amq",
+    "name": "Pattimura Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Pinang Kampai",
+    "name_zh_CN": "槟城都买机场",
+    "name_tr": "Pinang Kampai Havaalanı",
+    "name_fr": "Aéroport de Dumai - Pinang Kampai",
+    "name_es": "Aeropuerto de Pinang Kampai",
+    "name_it": "Aeroporto Pinang Kampai",
+    "code": "dum",
+    "id": "dum",
+    "name": "Pinang Kampai Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Аэропорт Полония",
+    "name_de": "Flughafen Polonia",
+    "name_zh_CN": "棉兰机场",
+    "name_tr": "Polonia Havaalanı",
+    "name_fr": "Aéroport de Medan - Polonia",
+    "name_es": "Aeropuerto de Polonia",
+    "name_it": "Aeroporto Polonia",
+    "code": "mes",
+    "id": "mes",
+    "name": "Polonia Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Raja Haji Fisabilillah",
+    "name_zh_CN": "拉贾·哈吉·非萨比利拉国际机场",
+    "name_tr": "Raja Haji Fisabilillah Uluslararası Havaalanı",
+    "name_fr": "Aéroport de Raja Haji Fisabilillah",
+    "name_es": "Aeropuerto internacional de Raja Haji Fisabilillah",
+    "name_it": "Aeoroporto Internazionale Raja Haji Fisabilillah",
+    "code": "tnj",
+    "id": "tnj",
+    "name": "Raja Haji Fisabilillah International Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Rendani",
+    "name_zh_CN": "马诺夸里机场",
+    "name_tr": "Rendani Havaalanı",
+    "name_fr": "Aéroport de Manokwari - Rendani",
+    "name_es": "Aeropuerto de Rendani",
+    "name_it": "Aeroporto Rendani",
+    "code": "mkw",
+    "id": "mkw",
+    "name": "Rendani Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Sabang",
+    "name_zh_CN": "沙璜机场",
+    "name_tr": "Sabang Havaalanı",
+    "name_fr": "Aéroport de Sabang",
+    "name_es": "Aeropuerto de Sabang",
+    "name_it": "Aeroporto di Subang",
+    "code": "sbg",
+    "id": "sbg",
+    "name": "Sabang Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Sam Ratulangi",
+    "name_zh_CN": "万鸦老机场",
+    "name_tr": "Sam Ratulangi Havaalanı",
+    "name_fr": "Aéroport de Sam Ratulangi",
+    "name_es": "Aeropuerto Sam Ratulangi",
+    "name_it": "Aeroporto Sam Ratulangi",
+    "code": "mdc",
+    "id": "mdc",
+    "name": "Sam Ratulangi Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_ru": "Аэропорт Селапаранг",
+    "name_de": "Flughafen Selaparang",
+    "name_zh_CN": "马塔兰机场",
+    "name_tr": "Selaparang Havaalanı",
+    "name_fr": "Aéroport de Lombok - Mataram",
+    "name_es": "Aeropuerto de Selaparang",
+    "name_it": "Aeroporto Selaparang",
+    "code": "ami",
+    "id": "ami",
+    "name": "Selaparang Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Sentani",
+    "name_zh_CN": "桑塔尼机场",
+    "name_tr": "Sentani Havaalanı",
+    "name_fr": "Aéroport de Sentani",
+    "name_es": "Aeropuerto de Sentani",
+    "name_it": "Aeroporto Sentani",
+    "code": "djj",
+    "id": "djj",
+    "name": "Sentani Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Sepinggan",
+    "name_zh_CN": "巴厘巴班机场",
+    "name_tr": "Sepinggan Havaalanı",
+    "name_fr": "Aéroport de Sepinggan",
+    "name_es": "Aeropuerto de Sepinggan",
+    "name_it": "Aeroporto Sepinggan",
+    "code": "bpn",
+    "id": "bpn",
+    "name": "Sepinggan Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      116.894,
+      -1.26806
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Sultan Iskandarmuda",
+    "name_zh_CN": "班达亚齐机场",
+    "name_tr": "Sultan Iskandarmuda Havaalanı",
+    "name_fr": "Aéroport de Banda Aceh - Sultan Iskandarmuda",
+    "name_es": "Aeropuerto Sultán Iskandarmuda",
+    "name_it": "Aeroporto Sultan Iskandar Muda",
+    "code": "btj",
+    "id": "btj",
+    "name": "Sultan Iskandarmuda Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      95.4203,
+      5.52333
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Sultan Mahmud Badaruddin Ii",
+    "name_zh_CN": "巨港机场",
+    "name_tr": "Sultan Mahmud Badaruddin II Havaalanı",
+    "name_fr": "Aéroport de Palembang - Sultan Mahmud Badaruddin II",
+    "name_es": "Aeropuerto Sultán Mahmud Badaruddin II",
+    "name_it": "Aeroporto Sultan Mahmud Badaruddin II",
+    "code": "plm",
+    "id": "plm",
+    "name": "Sultan Mahmud Badaruddin II Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      104.701,
+      -2.89778
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Sultan Syarif Kasim Ii",
+    "name_zh_CN": "北干巴鲁机场",
+    "name_tr": "Sultan Syarif Kasim II Havaalanı",
+    "name_fr": "Aéroport de Pekanbaru - Sultan Syarif Kasim II",
+    "name_es": "Aeropuerto Sultán Syarif Kasim II",
+    "name_it": "Aeroporto Sultan Syarif Kasim II",
+    "code": "pku",
+    "id": "pku",
+    "name": "Sultan Syarif Kasim II Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Supadio",
+    "name_zh_CN": "坤甸机场",
+    "name_tr": "Supadio Havaalanı",
+    "name_fr": "Aéroport de Pontianak - Supadio",
+    "name_es": "Aeropuerto de Supadio",
+    "name_it": "Aeroporto Supadio",
+    "code": "pnk",
+    "id": "pnk",
+    "name": "Supadio Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      109.404,
+      -0.150556
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Syamsudin Noor",
+    "name_zh_CN": "班哲明斯机场",
+    "name_tr": "Syamsudin Noor Havaalanı",
+    "name_fr": "Aéroport de Banjarmasin - Syamsudin Noor",
+    "name_es": "Aeropuerto de Syamsudin Noor",
+    "name_it": "Aeroporto Syamsudin Noor",
+    "code": "bdj",
+    "id": "bdj",
+    "name": "Syamsudin Noor Airport",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      114.761,
+      -3.44194
+    ],
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Temindung",
+    "name_zh_CN": "三马林达机场",
+    "name_tr": "Temindung Havaalanı",
+    "name_fr": "Aéroport de Samarinda - Temindung",
+    "name_es": "Aeropuerto de Temindung",
+    "name_it": "Aeroporto Temindung",
+    "code": "sri",
+    "id": "sri",
+    "name": "Temindung Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Waingapu",
+    "name_zh_CN": "瓦音阿普机场",
+    "name_tr": "Waingapu Havaalanı",
+    "name_fr": "Aéroport de Waingapu",
+    "name_es": "Aeropuerto de Waingapu",
+    "name_it": "Aeroporto Waingapu",
+    "code": "wgp",
+    "id": "wgp",
+    "name": "Waingapu Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "airport",
+    "name_de": "Flughafen Waioti",
+    "name_zh_CN": "毛梅雷机场",
+    "name_tr": "Waioti Havaalanı",
+    "name_fr": "Aéroport de Maumere - Wai Oti",
+    "name_es": "Aeropuerto de Waioti",
+    "name_it": "Aeroporto Wai Oti",
+    "code": "mof",
+    "id": "mof",
+    "name": "Waioti Airport",
+    "country": {
+      "id": "id"
+    },
+    "targets": []
+  },
+  {
+    "kind": "region",
+    "name_ru": "Бали",
+    "name_zh_CN": "巴厘岛",
+    "name_th": "บาหลี",
+    "id": "bali",
+    "name": "Bali",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      115.05,
+      -8.45833
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        114.45,
+        -8.83333
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        115.65,
+        -8.08333
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "sukawati",
+        "name": "Sukawati",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.294,
+          -8.60427
+        ],
+        "targets": [],
+        "hotels": 22,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jatiluwih",
+        "name": "Jatiluwih",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.111725,
+          -8.347303
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Санур",
+        "name_zh_CN": "沙努尔",
+        "name_th": "ซานูร์",
+        "id": "sanur",
+        "name": "Sanur",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.261,
+          -8.69235
+        ],
+        "targets": [],
+        "hotels": 250,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jembrana",
+        "name": "Jembrana",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.65,
+          -8.36667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Туламбен",
+        "name_zh_CN": "图兰奔",
+        "id": "tulamben",
+        "name": "Tulamben",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.588,
+          -8.293
+        ],
+        "targets": [],
+        "hotels": 20,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Сингараджа",
+        "name_zh_CN": "新加拉惹",
+        "id": "singaraja-id",
+        "name": "Singaraja",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.094,
+          -8.12347
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Бедугул",
+        "name_th": "เบอดูกูล",
+        "id": "bedugul",
+        "name": "Bedugul",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.167,
+          -8.28333
+        ],
+        "targets": [],
+        "hotels": 10,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tampaksiring",
+        "name": "Tampaksiring",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.3,
+          -8.41667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Тегаллаланг",
+        "name_zh_CN": "德哥拉朗",
+        "id": "tegalalang",
+        "name": "Tegalalang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.283,
+          -8.45
+        ],
+        "targets": [],
+        "hotels": 24,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Лембонган",
+        "name_zh_CN": "蓝梦岛",
+        "name_th": "เลมโบงัน",
+        "id": "lembongan",
+        "name": "Lembongan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.433,
+          -8.68333
+        ],
+        "targets": [],
+        "hotels": 126,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Керобокан",
+        "name_zh_CN": "科洛布坎",
+        "name_th": "เกอโรโบกัน",
+        "id": "kerobokan",
+        "name": "Kerobokan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.149,
+          -8.66928
+        ],
+        "targets": [],
+        "hotels": 57,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Падангбай",
+        "name_zh_CN": "八丹拜",
+        "id": "padang-id",
+        "name": "Padangbai",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.5,
+          -8.53333
+        ],
+        "targets": [],
+        "hotels": 9,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Minangkabau",
+            "name_zh_CN": "巴东机场",
+            "name_tr": "Minangkabau Uluslararası Havaalanı",
+            "name_fr": "Aéroport de Padang - Minangkabau",
+            "name_es": "Aeropuerto internacional de Minangkabau",
+            "name_it": "Aeroporto Internazionale Minangkabau",
+            "code": "pdg",
+            "id": "pdg",
+            "name": "Minangkabau International Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "name_ru": "Антасари",
+        "name_zh_CN": "安达沙里",
+        "id": "antasari",
+        "name": "Antasari",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.017,
+          -8.5
+        ],
+        "targets": [],
+        "hotels": 12,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "gianyar",
+        "name": "Gianyar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.333,
+          -8.53333
+        ],
+        "targets": [],
+        "hotels": 13,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Унгасан",
+        "name_zh_CN": "乌干沙",
+        "id": "ungasan",
+        "name": "Ungasan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.133,
+          -8.82452
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Амед",
+        "name_zh_CN": "艾湄湾",
+        "id": "amed",
+        "name": "Amed",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.65,
+          -8.33333
+        ],
+        "targets": [],
+        "hotels": 121,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "gretek",
+        "name": "Gretek",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.417,
+          -8.15
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_th": "ตีร์ตากังกา",
+        "id": "tirtagangga",
+        "name": "Tirtagangga",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.586945,
+          -8.411944
+        ],
+        "targets": [],
+        "hotels": 13,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "banjar",
+        "name": "Banjar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.967,
+          -8.2
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Танах-Лот",
+        "name_zh_CN": "海神庙",
+        "id": "tanah-lot",
+        "name": "Tanah Lot",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.10102,
+          -8.6388035
+        ],
+        "targets": [],
+        "hotels": 27,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "penginuman",
+        "name": "Penginuman",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.45,
+          -8.21667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Тубан",
+        "name_zh_CN": "图班",
+        "id": "tuban-id",
+        "name": "Tuban",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.17,
+          -8.73511
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Умалас",
+        "name_zh_CN": "乌玛拉斯",
+        "id": "umalas",
+        "name": "Umalas",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.15712,
+          -8.658903
+        ],
+        "targets": [],
+        "hotels": 91,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Denpasar Municipality",
+        "name_de": "Denpasar Municipality",
+        "name_zh_CN": "Denpasar Municipality",
+        "name_tr": "Denpasar Municipality",
+        "name_fr": "Denpasar Municipality",
+        "name_es": "Municipio de Denpasar",
+        "name_it": "Denpasar Municipality",
+        "name_th": "Denpasar Municipality",
+        "id": "denpasar",
+        "name": "Denpasar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.217,
+          -8.65
+        ],
+        "targets": [],
+        "hotels": 107,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Кинтамани",
+        "name_zh_CN": "金塔马尼",
+        "id": "kintamani",
+        "name": "Kintamani",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.317,
+          -8.23333
+        ],
+        "targets": [],
+        "hotels": 14,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Бали Кута",
+        "name_zh_CN": "巴厘岛库塔",
+        "name_th": "บาหลี กูตา",
+        "id": "kuta",
+        "name": "Kuta",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.173,
+          -8.72273
+        ],
+        "targets": [],
+        "hotels": 290,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Аэропорт Денпасар Бали",
+            "name_de": "Flughafen Ngurah Rai",
+            "name_zh_CN": "峇里岛伍拉·赖机场",
+            "name_tr": "Bali Ngurah Rai Havaalanı",
+            "name_fr": "Aéroport de Denpasar Ngurah Rai",
+            "name_es": "Aeropuerto internacional de Bali Denpasar",
+            "name_it": "Aeroporto di Bali Denpasar",
+            "name_th": "สนามบินนานาชาติบาหลีเดนปาซาร์",
+            "code": "dps",
+            "id": "dps",
+            "name": "Bali Denpasar International Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              115.167,
+              -8.74413
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "sidemen",
+        "name": "Sidemen",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.45,
+          -8.46667
+        ],
+        "targets": [],
+        "hotels": 29,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Нуса-Дуа",
+        "name_zh_CN": "努沙杜瓦",
+        "name_th": "นูซา ดัว",
+        "id": "nusa-dua-id",
+        "name": "Nusa Dua",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.22,
+          -8.8
+        ],
+        "targets": [],
+        "hotels": 126,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Кандидаса",
+        "name_zh_CN": "甘地达萨",
+        "id": "candidasa",
+        "name": "Candidasa",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.571,
+          -8.50313
+        ],
+        "targets": [],
+        "hotels": 57,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "selemadeg",
+        "name": "Selemadeg",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.033,
+          -8.48333
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "mengwi",
+        "name": "Mengwi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.166626,
+          -8.550099
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Кубупенлокан",
+        "name_zh_CN": "库布盼洛坎",
+        "id": "kubupenlokan",
+        "name": "Kubupenlokan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.383,
+          -8.28333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "serangan",
+        "name": "Serangan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.233,
+          -8.725
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "menanga",
+        "name": "Menanga",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.43114,
+          -8.39788
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "ketewel",
+        "name": "Ketewel",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.283,
+          -8.63333
+        ],
+        "targets": [],
+        "hotels": 11,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Пулукан",
+        "name_zh_CN": "普卢坎",
+        "id": "pulukan",
+        "name": "Pulukan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.817,
+          -8.41667
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bangli",
+        "name": "Bangli",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.35,
+          -8.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Мангис",
+        "name_zh_CN": "曼格斯",
+        "id": "manggis",
+        "name": "Manggis",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.517,
+          -8.48333
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Улувату",
+        "name_zh_CN": "乌鲁瓦图",
+        "name_th": "อูลูวาตู",
+        "id": "uluwatu",
+        "name": "Uluwatu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.088615,
+          -8.824926
+        ],
+        "targets": [],
+        "hotels": 125,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "klatingunging",
+        "name": "Klatingunging",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.05,
+          -8.58333
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Мундук",
+        "name_zh_CN": "姆杜克",
+        "id": "munduk",
+        "name": "Munduk",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.05,
+          -8.26667
+        ],
+        "targets": [],
+        "hotels": 34,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "penebel",
+        "name": "Penebel",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.15,
+          -8.41667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Пекату",
+        "name_zh_CN": "培卡图",
+        "id": "pecatu",
+        "name": "Pecatu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.117,
+          -8.83333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Уме-Аньяр",
+        "name_zh_CN": "乌明亚",
+        "id": "umeanyar",
+        "name": "Umeanyar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.912,
+          -8.19118
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "banyubiru",
+        "name": "Banyubiru",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.567,
+          -8.35
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tegallengah",
+        "name": "Tegallengah",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.883,
+          -8.2
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kusamba",
+        "name": "Kusamba",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.45,
+          -8.56667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "blimbing",
+        "name": "Blimbing",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.033,
+          -8.4
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "mayong",
+        "name": "Mayong",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.967,
+          -8.23333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "penginyahan",
+        "name": "Penginyahan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.267,
+          -8.38333
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Семиньяк",
+        "name_zh_CN": "塞米亚克",
+        "name_th": "เซมินยัค",
+        "id": "seminyak",
+        "name": "Seminyak",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.168724,
+          -8.697095
+        ],
+        "targets": [],
+        "hotels": 732,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "seraya",
+        "name": "Seraya",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.645424,
+          -8.429074
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Керамас",
+        "id": "keramas",
+        "name": "Keramas",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.32799,
+          -8.585466
+        ],
+        "targets": [],
+        "hotels": 11,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Тианьяр",
+        "name_zh_CN": "提安亚尔",
+        "id": "tianyar",
+        "name": "Tianyar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.5,
+          -8.2
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Легиан",
+        "name_zh_CN": "勒吉安",
+        "name_th": "เลเจียน",
+        "id": "legian",
+        "name": "Legian",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.17,
+          -8.70511
+        ],
+        "targets": [],
+        "hotels": 197,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Убуд",
+        "name_zh_CN": "乌布",
+        "name_th": "อูบุด",
+        "id": "ubud",
+        "name": "Ubud",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.267,
+          -8.5
+        ],
+        "targets": [],
+        "hotels": 828,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Саба",
+        "name_zh_CN": "萨巴",
+        "id": "saba",
+        "name": "Saba",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.3,
+          -8.6
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Пемутеран",
+        "name_zh_CN": "佩母得兰",
+        "id": "pemuteran",
+        "name": "Pemuteran",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.62784,
+          -8.150612
+        ],
+        "targets": [],
+        "hotels": 66,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Кангу",
+        "name_zh_CN": "坎古",
+        "name_th": "ซังกู",
+        "id": "canggu",
+        "name": "Canggu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.14,
+          -8.63978
+        ],
+        "targets": [],
+        "hotels": 276,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tabanan",
+        "name": "Tabanan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.133,
+          -8.53333
+        ],
+        "targets": [],
+        "hotels": 15,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Баньюведанг",
+        "name_zh_CN": "班尤温当",
+        "name_th": "บันยูเวดัง",
+        "id": "banyuwedang",
+        "name": "Banyuwedang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.6,
+          -8.13333
+        ],
+        "targets": [],
+        "hotels": 10,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jasri",
+        "name": "Jasri",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.61968,
+          -8.480798
+        ],
+        "targets": [],
+        "hotels": 14,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kediri-id",
+        "name": "Kediri",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.133,
+          -8.56667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Теджакула",
+        "name_th": "เตอจากุลา",
+        "id": "tejakula",
+        "name": "Tejakula",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.333,
+          -8.13333
+        ],
+        "targets": [],
+        "hotels": 10,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "undisan",
+        "name": "Undisan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.39489,
+          -8.446139
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Джимбаран",
+        "name_zh_CN": "金巴兰",
+        "name_th": "จิมบาราน",
+        "id": "jimbaran",
+        "name": "Jimbaran",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.156456,
+          -8.790015
+        ],
+        "targets": [],
+        "hotels": 183,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Паянган",
+        "name_zh_CN": "帕洋安",
+        "name_th": "ปายางัน",
+        "id": "payangan",
+        "name": "Payangan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.25,
+          -8.43333
+        ],
+        "targets": [],
+        "hotels": 16,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Бувит",
+        "name_zh_CN": "布维特",
+        "id": "buwit",
+        "name": "Buwit",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.123,
+          -8.60461
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Кубутамбахан",
+        "id": "kubutambahan",
+        "name": "Kubutambahan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.167,
+          -8.08333
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "temukus",
+        "name": "Temukus",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.983,
+          -8.18333
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "banjarangkan",
+        "name": "Banjarangkan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.367,
+          -8.55
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Кубу",
+        "name_zh_CN": "库布",
+        "id": "kubu",
+        "name": "Kubu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.583,
+          -8.26667
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Ловина",
+        "name_zh_CN": "罗威那",
+        "name_fr": "Lovina Beach",
+        "name_th": "โลวินา",
+        "id": "lovina",
+        "name": "Lovina",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.02511,
+          -8.160872
+        ],
+        "targets": [],
+        "hotels": 99,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "batam",
+    "name": "Batam",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      104.007996,
+      1.159133
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        103.933,
+        1.118266
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        104.083,
+        1.2
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "name_ru": "Секупанг",
+        "name_zh_CN": "瑟古邦",
+        "id": "sekupang",
+        "name": "Sekupang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          103.933,
+          1.13333
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Батам",
+        "name_de": "Batam",
+        "name_zh_CN": "巴淡岛",
+        "name_tr": "Batam",
+        "name_fr": "Batam",
+        "name_es": "Batam",
+        "name_it": "Batam",
+        "name_th": "บาตัม",
+        "id": "batam",
+        "name": "Batam Center",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.03927,
+          1.118266
+        ],
+        "targets": [],
+        "hotels": 16,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Бату-Ампар",
+        "name_zh_CN": "巴都安帕",
+        "id": "batuampar",
+        "name": "Batu Ampar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.022,
+          1.14147
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Нагоя",
+        "name_zh_CN": "纳柯亚",
+        "name_th": "นาโกยา",
+        "id": "nagoya-id",
+        "name": "Nagoya",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.016,
+          1.13873
+        ],
+        "targets": [],
+        "hotels": 55,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Нонгса",
+        "name_zh_CN": "秾莎",
+        "id": "nongsa",
+        "name": "Nongsa",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.083,
+          1.2
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "name_ru": "Бинтан",
+    "name_zh_CN": "民丹岛",
+    "name_fr": "Île de Bintan",
+    "name_th": "บินตัน",
+    "id": "bintan",
+    "name": "Bintan",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      104.5165,
+      1.0666685
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        104.383,
+        0.916667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        104.65,
+        1.21667
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "tenaga",
+        "name": "Tenaga",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.4,
+          1.03333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Беракит",
+        "name_zh_CN": "博拉科特",
+        "id": "berakit",
+        "name": "Berakit",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.55,
+          1.21667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Телукбакау",
+        "name_zh_CN": "特鲁克巴库",
+        "id": "telukbakau",
+        "name": "Telukbakau",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.65,
+          1.05
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Танджунгпинанг",
+        "name_zh_CN": "坦炅品昂",
+        "id": "tanjungpinang",
+        "name": "Tanjung Pinang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.45,
+          0.916667
+        ],
+        "targets": [],
+        "hotels": 10,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Лагой",
+        "name_zh_CN": "拉古洼",
+        "name_th": "ลาโกย",
+        "id": "lagoi",
+        "name": "Lagoi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.383,
+          1.16667
+        ],
+        "targets": [],
+        "hotels": 13,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "name_ru": "Ломбок",
+    "name_zh_CN": "龙目岛",
+    "name_th": "ลอมบ็อก",
+    "id": "lombok",
+    "name": "Lombok",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      116.317,
+      -8.59167
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        115.917,
+        -8.91667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        116.717,
+        -8.26667
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "ekas",
+        "name": "Ekas",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.45,
+          -8.88333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Телукнарат",
+        "name_zh_CN": "特鲁卡那拉特",
+        "id": "teluknarat",
+        "name": "Teluknarat",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.077,
+          -8.40806
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Гили-Мено",
+        "name_th": "กิลิเมโน",
+        "id": "gili-meno",
+        "name": "Gili Meno",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.057,
+          -8.35282
+        ],
+        "targets": [],
+        "hotels": 48,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tanjung-ringgit",
+        "name": "Tanjung Ringgit",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.58747,
+          -8.862853
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "森纳儒",
+        "id": "senaru",
+        "name": "Senaru",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.401665,
+          -8.290175
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "labuhanpandan",
+        "name": "Labuhanpandan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.717,
+          -8.38333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Сенггиги",
+        "name_zh_CN": "圣吉吉",
+        "name_th": "เซงกิกิ",
+        "id": "senggigi",
+        "name": "Senggigi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.047,
+          -8.50101
+        ],
+        "targets": [],
+        "hotels": 66,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Пеланганг",
+        "name_zh_CN": "帕朗冈",
+        "id": "pelangang",
+        "name": "Pelangan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.917,
+          -8.76667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sembalunbumbung",
+        "name": "Sembalunbumbung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.55,
+          -8.4
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Кута Ломбок",
+        "name_zh_CN": "库塔",
+        "name_th": "กูตา ลอมบก",
+        "id": "kuta-id",
+        "name": "Kuta Lombok",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.283,
+          -8.91667
+        ],
+        "targets": [],
+        "hotels": 33,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Бумбанг",
+        "id": "bumbang",
+        "name": "Bumbang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.383,
+          -8.91667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "praya",
+        "name": "Praya",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.283,
+          -8.7
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sekotong",
+        "name": "Sekotong",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.00378,
+          -8.743767
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Матарам",
+        "name_zh_CN": "马塔兰",
+        "id": "mataram",
+        "name": "Mataram",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.1063,
+          -8.584218
+        ],
+        "targets": [],
+        "hotels": 38,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Аэропорт Селапаранг",
+            "name_de": "Flughafen Selaparang",
+            "name_zh_CN": "马塔兰机场",
+            "name_tr": "Selaparang Havaalanı",
+            "name_fr": "Aéroport de Lombok - Mataram",
+            "name_es": "Aeropuerto de Selaparang",
+            "name_it": "Aeroporto Selaparang",
+            "code": "ami",
+            "id": "ami",
+            "name": "Selaparang Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          },
+          {
+            "kind": "airport",
+            "name_ru": "Международный аэропорт Ломбок",
+            "code": "lop",
+            "id": "lop",
+            "name": "Lombok International Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              116.277,
+              -8.75732
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "name_ru": "Гили-Эйр",
+        "name_zh_CN": "吉利阿尔",
+        "name_th": "กิลิไอร์",
+        "id": "gili-air",
+        "name": "Gili Air",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.083,
+          -8.35928
+        ],
+        "targets": [],
+        "hotels": 99,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sembalunlawang",
+        "name": "Sembalunlawang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.533,
+          -8.38333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Мангсит",
+        "name_zh_CN": "芒希",
+        "id": "mangsit",
+        "name": "Mangsit",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.05,
+          -8.48333
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Танджунг",
+        "name_zh_CN": "丹戎",
+        "id": "tanjung",
+        "name": "Tanjung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.15,
+          -8.35
+        ],
+        "targets": [],
+        "hotels": 10,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bayan",
+        "name": "Bayan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.433,
+          -8.26667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Гили Траванган",
+        "name_zh_CN": "吉利特拉旺安",
+        "name_th": "กิลิตราวังอัน",
+        "id": "gili-trawangan",
+        "name": "Gili Trawangan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.036,
+          -8.35011
+        ],
+        "targets": [],
+        "hotels": 197,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_th": "เตเตบาตู",
+        "id": "tetebatu",
+        "name": "Tetebatu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.40884,
+          -8.537578
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "name_ru": "Суматра",
+    "name_th": "สุมาตรา",
+    "id": "sumatra",
+    "name": "Sumatra",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      101.76085,
+      0.06361008
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        95.2547,
+        -5.75
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        108.267,
+        5.87722
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "name_zh_CN": "邦加槟榔",
+        "id": "pangkalpinang",
+        "name": "Pangkalpinang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.133,
+          -2.13333
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "巴拉巴特",
+        "name_th": "ปาราปัต",
+        "id": "prapat",
+        "name": "Parapat",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.9333,
+          2.66667
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "timbanglawang",
+        "name": "Timbanglawang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.15,
+          3.51667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tanjungpandan",
+        "name": "Tanjungpandan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.65,
+          -2.75
+        ],
+        "targets": [],
+        "hotels": 18,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Калиандак",
+        "id": "kaliandak",
+        "name": "Kalianda",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          105.633,
+          -5.75
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bengkulu",
+        "name": "Bengkulu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          102.267,
+          -3.8
+        ],
+        "targets": [],
+        "hotels": 12,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "membalong",
+        "name": "Membalong",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.633,
+          -3.15
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_th": "บันดาอาเจะห์",
+        "id": "banda-aceh",
+        "name": "Banda Aceh",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          95.3178,
+          5.55528
+        ],
+        "targets": [],
+        "hotels": 9,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Sultan Iskandarmuda",
+            "name_zh_CN": "班达亚齐机场",
+            "name_tr": "Sultan Iskandarmuda Havaalanı",
+            "name_fr": "Aéroport de Banda Aceh - Sultan Iskandarmuda",
+            "name_es": "Aeropuerto Sultán Iskandarmuda",
+            "name_it": "Aeroporto Sultan Iskandar Muda",
+            "code": "btj",
+            "id": "btj",
+            "name": "Sultan Iskandarmuda Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              95.4203,
+              5.52333
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "bebeko",
+        "name": "Bebeko",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          102.2,
+          -1.5
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "武吉丁宜",
+        "name_th": "บูกิตติงกี",
+        "id": "bukittinggi",
+        "name": "Bukittinggi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.367,
+          -0.316667
+        ],
+        "targets": [],
+        "hotels": 19,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "lahat",
+        "name": "Lahat",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          103.533,
+          -3.8
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sawahlunto",
+        "name": "Sawahlunto",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.783,
+          -0.666667
+        ],
+        "targets": [],
+        "hotels": 11,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "斯波拉吉特",
+        "id": "sibaulangit",
+        "name": "Sibolangit",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.5833,
+          3.31667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "batusangkar",
+        "name": "Batusangkar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.583,
+          -0.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Палембанг",
+        "name_zh_CN": "巨港",
+        "name_th": "ปาเลมบัง",
+        "id": "palembang",
+        "name": "Palembang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.754,
+          -2.9691
+        ],
+        "targets": [],
+        "hotels": 32,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Sultan Mahmud Badaruddin Ii",
+            "name_zh_CN": "巨港机场",
+            "name_tr": "Sultan Mahmud Badaruddin II Havaalanı",
+            "name_fr": "Aéroport de Palembang - Sultan Mahmud Badaruddin II",
+            "name_es": "Aeropuerto Sultán Mahmud Badaruddin II",
+            "name_it": "Aeroporto Sultan Mahmud Badaruddin II",
+            "code": "plm",
+            "id": "plm",
+            "name": "Sultan Mahmud Badaruddin II Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              104.701,
+              -2.89778
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "sungailiat",
+        "name": "Sungailiat",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.133,
+          -1.85
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "比哈尔",
+        "id": "biha",
+        "name": "Biha",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.0,
+          -5.31667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "padangpanjang",
+        "name": "Padangpanjang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.417,
+          -0.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "belawan",
+        "name": "Belawan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.6833,
+          3.78333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "rantauprapat",
+        "name": "Rantauprapat",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          99.8333,
+          2.1
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pematangsiantar",
+        "name": "Pematangsiantar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          99.05,
+          2.95
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sijuk",
+        "name": "Sijuk",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.767,
+          -2.56667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pasarbungus",
+        "name": "Pasarbungus",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.417,
+          -1.05
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "dumai",
+        "name": "Dumai",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          101.45,
+          1.68333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Pinang Kampai",
+            "name_zh_CN": "槟城都买机场",
+            "name_tr": "Pinang Kampai Havaalanı",
+            "name_fr": "Aéroport de Dumai - Pinang Kampai",
+            "name_es": "Aeropuerto de Pinang Kampai",
+            "name_it": "Aeroporto Pinang Kampai",
+            "code": "dum",
+            "id": "dum",
+            "name": "Pinang Kampai Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "martapura",
+        "name": "Martapura",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          104.367,
+          -4.31667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Берастаги",
+        "name_zh_CN": "不拉士打宜",
+        "name_th": "เบอราสตากี",
+        "id": "berastagi",
+        "name": "Berastagi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.5167,
+          3.18333
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bukit-lawang",
+        "name": "Bukit Lawang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.1448,
+          3.555286
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_th": "ตุ๊กตุ๊ก",
+        "id": "tuktukgaja",
+        "name": "Tuk Tuk",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.84874,
+          2.667759
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "parai-tenggiri",
+        "name": "Parai Tenggiri",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.127,
+          -1.804
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pangururan-id",
+        "name": "Pangururan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.7,
+          2.61667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Медан",
+        "name_zh_CN": "棉兰",
+        "name_th": "เมดาน",
+        "id": "medan",
+        "name": "Medan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.6711,
+          3.5914452
+        ],
+        "targets": [],
+        "hotels": 57,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Аэропорт Полония",
+            "name_de": "Flughafen Polonia",
+            "name_zh_CN": "棉兰机场",
+            "name_tr": "Polonia Havaalanı",
+            "name_fr": "Aéroport de Medan - Polonia",
+            "name_es": "Aeropuerto de Polonia",
+            "name_it": "Aeroporto Polonia",
+            "code": "mes",
+            "id": "mes",
+            "name": "Polonia Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "kotabaru",
+        "name": "Kotabaru",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.4,
+          -0.4
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jambi",
+        "name": "Jambi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          103.617,
+          -1.6
+        ],
+        "targets": [],
+        "hotels": 18,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Sultan Thaha (Sultan Taha Syarifudn)",
+            "name_zh_CN": "贾姆比机场",
+            "name_tr": "Sultan Thaha Havaalanı",
+            "name_fr": "Aéroport de Jambi - Sultan Thaha",
+            "name_es": "Aeropuerto Sultán Thaha (Sultan Taha Syarifudn)",
+            "name_it": "Aeroporto Sultan Thaha",
+            "code": "djb",
+            "id": "djb",
+            "name": "Sultan Thaha (Sultan Taha Syarifudn) Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "perawas",
+        "name": "Perawas",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.717,
+          -2.75
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "manggar",
+        "name": "Manggar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          108.267,
+          -2.88333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bandar-lampung",
+        "name": "Bandar Lampung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          105.26667,
+          -5.45
+        ],
+        "targets": [],
+        "hotels": 17,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "maninjau",
+        "name": "Maninjau",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.233,
+          -0.3
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "muaraenim",
+        "name": "Muaraenim",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          103.8,
+          -3.65
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "duri",
+        "name": "Duri",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          101.212585,
+          1.258756
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "iboih",
+        "name": "Iboih",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          95.2547,
+          5.87722
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "matur",
+        "name": "Matur",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.283,
+          -0.283333
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Паданг",
+        "name_zh_CN": "巴东",
+        "name_th": "ปาดัง",
+        "id": "padang",
+        "name": "Padang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          100.35,
+          -0.95
+        ],
+        "targets": [],
+        "hotels": 41,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "lubukpakam",
+        "name": "Lubukpakam",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.8667,
+          3.55
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Пеканбару",
+        "name_zh_CN": "北干巴鲁",
+        "id": "pekanbaru",
+        "name": "Pekanbaru",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          101.45,
+          0.533333
+        ],
+        "targets": [],
+        "hotels": 34,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Sultan Syarif Kasim Ii",
+            "name_zh_CN": "北干巴鲁机场",
+            "name_tr": "Sultan Syarif Kasim II Havaalanı",
+            "name_fr": "Aéroport de Pekanbaru - Sultan Syarif Kasim II",
+            "name_es": "Aeropuerto Sultán Syarif Kasim II",
+            "name_it": "Aeroporto Sultan Syarif Kasim II",
+            "code": "pku",
+            "id": "pku",
+            "name": "Sultan Syarif Kasim II Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "tongging",
+        "name": "Tongging",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          98.5333,
+          2.9
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "wainapal",
+        "name": "Wainapal",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          103.933,
+          -5.23333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "krui",
+        "name": "Krui",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          103.933,
+          -5.18333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "banten",
+    "name": "Banten",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      106.1775,
+      -6.259
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        105.668,
+        -6.50244
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        106.687,
+        -6.01556
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "pasauran",
+        "name": "Pasauran",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          105.853905,
+          -6.2043405
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cinangka",
+        "name": "Cinangka",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          105.867,
+          -6.16667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "serang",
+        "name": "Serang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.148,
+          -6.11278
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "当格浪",
+        "name_th": "ทังเกอรัง",
+        "id": "tangerang",
+        "name": "Tangerang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.631,
+          -6.17833
+        ],
+        "targets": [],
+        "hotels": 26,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "carita",
+        "name": "Carita",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          105.833,
+          -6.31667
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Аньер-Кидул",
+        "name_zh_CN": "安亚尔·基杜尔",
+        "id": "anyer-kidul",
+        "name": "Anyer",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          105.9227,
+          -6.05343
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "priang",
+        "name": "Priang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.65,
+          -6.26667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Танджунг-Лесунг",
+        "name_zh_CN": "丹戎勒斯昂",
+        "id": "tanjung-lesung",
+        "name": "Tanjung Lesung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          105.668,
+          -6.50244
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "nalagat",
+        "name": "Nalagat",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.521,
+          -6.25556
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cilegon",
+        "name": "Cilegon",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.053,
+          -6.01556
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "塞尔蓬",
+        "name_th": "เซอร์ปง",
+        "id": "serpong",
+        "name": "Serpong",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.666,
+          -6.32111
+        ],
+        "targets": [],
+        "hotels": 14,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "gaga-tiga",
+        "name": "Gaga Tiga",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.687,
+          -6.10778
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "karawaci",
+        "name": "Karawaci",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.625,
+          -6.19111
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sukanegara",
+        "name": "Sukanegara",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          105.83283,
+          -6.247867
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pandegelang",
+        "name": "Pandegelang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.105,
+          -6.30917
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "bengkulu",
+    "name": "Bengkulu",
+    "country": {
+      "id": "id"
+    },
+    "targets": [],
+    "childs": []
+  },
+  {
+    "kind": "region",
+    "id": "gorontalo",
+    "name": "Gorontalo",
+    "country": {
+      "id": "id"
+    },
+    "targets": [],
+    "childs": []
+  },
+  {
+    "kind": "region",
+    "id": "jakarta",
+    "name": "Jakarta Province",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      106.833496,
+      -6.236945
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        106.783,
+        -6.35917
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        106.884,
+        -6.11472
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "name_ru": "Jakarta Province",
+        "name_de": "Provinz Jakarta",
+        "name_zh_CN": "雅加达省",
+        "name_tr": "Cakarta",
+        "name_fr": "Jakarta Province",
+        "name_es": "Jakarta Province",
+        "name_it": "Jakarta Province",
+        "name_th": "Jakarta Province",
+        "id": "jakarta",
+        "name": "Jakarta",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.82294,
+          -6.194998
+        ],
+        "targets": [],
+        "hotels": 395,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Аэропорт Сукарно Хатта",
+            "name_de": "Flughafen Soekarno Hatta",
+            "name_zh_CN": "苏加诺-哈达机场",
+            "name_tr": "Cakarta Soekarno Hatta Havaalanı",
+            "name_fr": "Aéroport international de Jakarta Soekarno-Hatta",
+            "name_es": "Aeropuerto de Jakarta Soekarno Hatta",
+            "name_it": "Aeroporto Internazionale di Giacarta Soekarno–Hatta",
+            "name_th": "สนามบินนานาชาติซูการ์โนฮัตตา",
+            "code": "cgk",
+            "id": "cgk",
+            "name": "Jakarta Soekarno Hatta Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              106.654,
+              -6.12658
+            ],
+            "targets": []
+          },
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Halim Perdanakusuma",
+            "name_zh_CN": "哈利姆·珀达纳库苏马机场",
+            "name_tr": "Halim Perdanakusuma Havaalanı",
+            "name_fr": "Aéroport d'Halim Perdanakusuma",
+            "name_es": "Aeropuerto Halim Perdanakusuma",
+            "name_it": "Aeroporto Halim Perdana Kusuma",
+            "name_th": "สนามบินฮาลิมเปอร์ดานากุสุมา",
+            "code": "hlp",
+            "id": "hlp",
+            "name": "Halim Perdanakusuma Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              106.886,
+              -6.26571
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "ciracas",
+        "name": "Ciracas",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.876,
+          -6.33028
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kebagusan-satu",
+        "name": "Kebagusan Satu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.829,
+          -6.30639
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sumurbatu",
+        "name": "Sumurbatu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.867,
+          -6.16667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kalijati",
+        "name": "Kalijati",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.806,
+          -6.31111
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "塞兰达科",
+        "id": "cilandak",
+        "name": "Cilandak",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.783,
+          -6.28333
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "gandaria-selatan",
+        "name": "Gandaria-selatan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.794,
+          -6.26639
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sundakelapa",
+        "name": "Sundakelapa",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.799,
+          -6.11472
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tjibubur-dua",
+        "name": "Cibubur",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.884,
+          -6.35917
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kebayoran-baru",
+        "name": "Kebayoran-Baru",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.798,
+          -6.24083
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "name_zh_CN": "占碑市",
+    "id": "jambi",
+    "name": "Jambi",
+    "country": {
+      "id": "id"
+    },
+    "targets": [],
+    "childs": []
+  },
+  {
+    "kind": "region",
+    "id": "jawa-barat",
+    "name": "West Java",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      107.525,
+      -6.99472
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        106.4,
+        -7.75
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        108.65,
+        -6.23944
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "gambung",
+        "name": "Gambung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.5,
+          -7.13333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kedungg",
+        "name": "Kedungg",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.148,
+          -6.30306
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "duroa",
+        "name": "Duroa 1",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.346,
+          -6.37444
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "ujunggenteng",
+        "name": "Ujunggenteng",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.4,
+          -7.36667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "ciawi",
+        "name": "Ciawi Bogor",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.846,
+          -6.66306
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cihanjuang",
+        "name": "Cihanjuang 1",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.57,
+          -6.845
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cikampek",
+        "name": "Cikampek",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.459,
+          -6.41361
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "soreang",
+        "name": "Soreang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.5,
+          -7.03333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cisarua-id",
+        "name": "Cisarua",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.908,
+          -6.66028
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "subang",
+        "name": "Subang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.758,
+          -6.5575
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Чиребон",
+        "name_th": "ซิเรบอน",
+        "id": "cirebon",
+        "name": "Cirebon",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          108.567,
+          -6.73333
+        ],
+        "targets": [],
+        "hotels": 22,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cibodas",
+        "name": "Cibodas",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.05,
+          -6.73333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "batukaras",
+        "name": "Batukaras",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          108.483,
+          -7.75
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cipamokoan",
+        "name": "Cipamokoan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.669,
+          -6.96194
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Пангандаран",
+        "id": "pangandaran",
+        "name": "Pangandaran",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          108.65,
+          -7.68333
+        ],
+        "targets": [],
+        "hotels": 18,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "panawuan",
+        "name": "Panawuan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          108.5,
+          -6.88333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cileungsir",
+        "name": "Cileungsir",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.959,
+          -6.39472
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pelabuhanratu",
+        "name": "Pelabuhan Ratu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.533,
+          -6.97667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sukabumi",
+        "name": "Sukabumi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.927,
+          -6.91667
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "karawang",
+        "name": "Karawang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.295,
+          -6.3125
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "purwakarta",
+        "name": "Purwakarta",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.439,
+          -6.55694
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cinere",
+        "name": "Cinere",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.783,
+          -6.33667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jatiroke",
+        "name": "Jatiroke",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.786,
+          -6.93972
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cisolok",
+        "name": "Cisolok",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.445,
+          -6.94722
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "garut",
+        "name": "Garut",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.9,
+          -7.21667
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "普卡",
+        "name_th": "ปุนจัก",
+        "id": "puncak",
+        "name": "Puncak",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.967,
+          -6.71472
+        ],
+        "targets": [],
+        "hotels": 23,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "rancabali",
+        "name": "Rancabali",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.35,
+          -7.13333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "芝卡朗",
+        "name_th": "สิการัง",
+        "id": "cikarang",
+        "name": "Cikarang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.156,
+          -6.24306
+        ],
+        "targets": [],
+        "hotels": 12,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "lembang",
+        "name": "Lembang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.616,
+          -6.8125
+        ],
+        "targets": [],
+        "hotels": 37,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "caringin",
+        "name": "Caringin",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.852,
+          -6.70583
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "ciamis",
+        "name": "Ciamis",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          108.35,
+          -7.33333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "gununggeulis",
+        "name": "Gununggeulis",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.867,
+          -6.63333
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cidadap",
+        "name": "Cidadap",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.74,
+          -6.76722
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cipatujah",
+        "name": "Cipatujah",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          108.017,
+          -7.75
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "palayangan",
+        "name": "Palayangan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.533,
+          -7.2
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "塞亚特",
+        "name_th": "จิอาเตอร์",
+        "id": "ciater",
+        "name": "Ciater",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.645,
+          -6.73278
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cikujang",
+        "name": "Cikujang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.05,
+          -6.68333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "贝克西",
+        "name_th": "เบกาซิ",
+        "id": "bekasi",
+        "name": "Bekasi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.993,
+          -6.23944
+        ],
+        "targets": [],
+        "hotels": 13,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sentul",
+        "name": "Sentul",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.85,
+          -6.53333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "depok-id",
+        "name": "Depok",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.827,
+          -6.4
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "padalarang",
+        "name": "Padalarang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.482,
+          -6.84222
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Бандунг",
+        "name_zh_CN": "万隆",
+        "name_th": "บันดุง",
+        "id": "bandung",
+        "name": "Bandung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.603,
+          -6.91757
+        ],
+        "targets": [],
+        "hotels": 309,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Husein Sastranegara",
+            "name_zh_CN": "万隆机场",
+            "name_tr": "Husein Sastranegara Havaalanı",
+            "name_fr": "Aéroport de Bandung - Husein Sastranegara",
+            "name_es": "Aeropuerto Husein Sastranegara",
+            "name_it": "Aeroporto Husein Sastranegara",
+            "name_th": "สนามบินฮูเซนศาสตราเนการา",
+            "code": "bdo",
+            "id": "bdo",
+            "name": "Husein Sastranegara Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              107.575,
+              -6.89501
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "name_ru": "Богор",
+        "name_zh_CN": "茂物",
+        "name_th": "โบกอร์",
+        "id": "bogor-west-java",
+        "name": "Bogor",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.791,
+          -6.58972
+        ],
+        "targets": [],
+        "hotels": 46,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jambatan",
+        "name": "Jambatan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.85,
+          -6.9
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tasikmalaya",
+        "name": "Tasikmalaya",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          108.2,
+          -7.33333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pondokcina",
+        "name": "Pondokcina",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          106.823,
+          -6.36111
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cileunyi",
+        "name": "Cileunyi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          107.746,
+          -6.94306
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "jawa-tengah",
+    "name": "Central Java",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      110.291504,
+      -6.8
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        109.0,
+        -7.73333
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        111.583,
+        -5.86667
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "tegal",
+        "name": "Tegal",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.133,
+          -6.86667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pablengan",
+        "name": "Pablengan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.05,
+          -7.63333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "salatiga",
+        "name": "Salatiga",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.5,
+          -7.31667
+        ],
+        "targets": [],
+        "hotels": 11,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cepu",
+        "name": "Cepu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.583,
+          -7.15
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "juwana",
+        "name": "Juwana",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.15,
+          -6.7
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "ambarawa",
+        "name": "Ambarawa",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.4,
+          -7.25
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Пекалонган",
+        "name_zh_CN": "北加浪岸",
+        "name_th": "เปอกาโลงัน",
+        "id": "pekalongan",
+        "name": "Pekalongan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.667,
+          -6.88333
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "ungaran",
+        "name": "Ungaran",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.4,
+          -7.11667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jatingaleh",
+        "name": "Jatingaleh",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.417,
+          -7.05
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tonoboyo",
+        "name": "Tonoboyo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.167,
+          -7.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "colomadu",
+        "name": "Colomadu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.75,
+          -7.53333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bedono",
+        "name": "Bedono",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.333,
+          -7.31667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "wonosobo",
+        "name": "Wonosobo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.9,
+          -7.36667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "普禾加多",
+        "id": "purwokerto",
+        "name": "Purwokerto",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.233,
+          -7.41667
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Семаранг",
+        "name_zh_CN": "三宝垄",
+        "name_th": "เซอมารัง",
+        "id": "semarang",
+        "name": "Semarang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.417,
+          -6.96667
+        ],
+        "targets": [],
+        "hotels": 68,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Международный аэропорт им. Ахмада Яни",
+            "name_de": "Flughafen Achmad Yani International",
+            "name_zh_CN": "三宝垄机场",
+            "name_tr": "Achmad Yani Uluslararası Havaalanı",
+            "name_fr": "Aéroport de Semarang - Achmad Yani",
+            "name_es": "Aeropuerto internacional Achmad Yani",
+            "name_it": "Aeroporto Ahmad Yani",
+            "code": "srg",
+            "id": "srg",
+            "name": "Achmad Yani International Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "sukaraja",
+        "name": "Sukaraja",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.283,
+          -7.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pati",
+        "name": "Pati",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.017,
+          -6.75
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "baturaden",
+        "name": "Baturaden",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.217,
+          -7.3
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "petarukan",
+        "name": "Petarukan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.433,
+          -6.88333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cilacap",
+        "name": "Cilacap",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.0,
+          -7.73333
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tawangmangu",
+        "name": "Tawangmangu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.117,
+          -7.66667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jepara-id",
+        "name": "Jepara",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.65,
+          -6.58333
+        ],
+        "targets": [],
+        "hotels": 12,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "马格朗",
+        "id": "magelang",
+        "name": "Magelang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.217,
+          -7.46667
+        ],
+        "targets": [],
+        "hotels": 9,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_th": "บันดุงอัน",
+        "id": "bandung-id",
+        "name": "Bandungan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.367,
+          -7.23333
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "klaten",
+        "name": "Klaten",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.583,
+          -7.7
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kudus",
+        "name": "Kudus",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.833,
+          -6.8
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Боробудур",
+        "name_zh_CN": "婆罗浮屠",
+        "name_th": "บุโรพุทโธ",
+        "id": "borobudur",
+        "name": "Borobudur",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.217,
+          -7.6
+        ],
+        "targets": [],
+        "hotels": 23,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pemalang",
+        "name": "Pemalang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.367,
+          -6.9
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "demak",
+        "name": "Demak",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.633,
+          -6.88333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_th": "การิมุนชวา",
+        "id": "karimunjawa",
+        "name": "Karimunjawa",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.433,
+          -5.86667
+        ],
+        "targets": [],
+        "hotels": 13,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Соло",
+        "name_zh_CN": "梭罗",
+        "name_th": "โซโล",
+        "id": "surakarta",
+        "name": "Solo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.833,
+          -7.58333
+        ],
+        "targets": [],
+        "hotels": 50,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Аэропорт Адисумармо",
+            "name_de": "Flughafen Adisumarmo",
+            "name_zh_CN": "梭罗机场",
+            "name_tr": "Adisumarmo Havaalanı",
+            "name_fr": "Aéroport de Solo - Adisumarno",
+            "name_es": "Aeropuerto Adisumarmo",
+            "name_it": "Aeroporto Adi Sumarmo",
+            "name_th": "สนามบินอดิสุมาร์โม",
+            "code": "soc",
+            "id": "soc",
+            "name": "Adisumarmo Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              110.757,
+              -7.51583
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "kartosuro",
+        "name": "Kartosuro",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.733,
+          -7.55
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pasarbangi",
+        "name": "Pasarbangi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.383,
+          -6.7
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "karangpandan",
+        "name": "Karangpandan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.067,
+          -7.61667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sukoharjo",
+        "name": "Sukoharjo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.833,
+          -7.68333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "name_zh_CN": "东爪哇省",
+    "id": "jawa-timur",
+    "name": "East Java",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      112.791504,
+      -7.71667
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        111.2,
+        -8.56667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        114.383,
+        -6.86667
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "lawang",
+        "name": "Lawang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.7,
+          -7.81667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kalibaru",
+        "name": "Kalibaru",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.967,
+          -8.28333
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bojonegoro",
+        "name": "Bojonegoro",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.867,
+          -7.15
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "lamongan",
+        "name": "Lamongan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.417,
+          -7.11667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "mojokerto",
+        "name": "Mojokerto",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.433,
+          -7.46667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bangorejo",
+        "name": "Bangorejo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.167,
+          -8.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tuban",
+        "name": "Tuban",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.05,
+          -6.9
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "paiton",
+        "name": "Paiton",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.5,
+          -7.71667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "madiun",
+        "name": "Madiun",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.517,
+          -7.61667
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "勿里达",
+        "id": "blitar",
+        "name": "Blitar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.15,
+          -8.1
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "dau",
+        "name": "Dau",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.583,
+          -7.93333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "dayu",
+        "name": "Dayu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.667,
+          -7.71667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "probolinggo",
+        "name": "Probolinggo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.217,
+          -7.75
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Пасуруан",
+        "name_zh_CN": "岩望",
+        "id": "pasuruan",
+        "name": "Pasuruan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.9,
+          -7.63333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Бату",
+        "name_zh_CN": "巴图",
+        "id": "batu",
+        "name": "Batu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.517,
+          -7.86667
+        ],
+        "targets": [],
+        "hotels": 43,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "trawas",
+        "name": "Trawas",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.583,
+          -7.66667
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sebani",
+        "name": "Sebani",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.383,
+          -8.11667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sampang",
+        "name": "Sampang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.233,
+          -7.2
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "banyuwangi",
+        "name": "Banyuwangi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.35,
+          -8.2
+        ],
+        "targets": [],
+        "hotels": 13,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "ponorogo",
+        "name": "Ponorogo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.45,
+          -7.86667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_th": "ซิโดอาร์โจ",
+        "id": "sidoarjo",
+        "name": "Sidoarjo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.717,
+          -7.45
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sumenep",
+        "name": "Sumenep",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.867,
+          -7.01667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "jombang-id",
+        "name": "Jombang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.233,
+          -7.55
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kediri",
+        "name": "Kediri",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.017,
+          -7.81667
+        ],
+        "targets": [],
+        "hotels": 10,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tumpang",
+        "name": "Tumpang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.767,
+          -8.0
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kalangbret",
+        "name": "Kalangbret",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.85,
+          -8.05
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pasanggaran",
+        "name": "Pasanggaran",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.083,
+          -8.56667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_th": "เจมเบอร์",
+        "id": "jember",
+        "name": "Jember",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.7,
+          -8.16667
+        ],
+        "targets": [],
+        "hotels": 13,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cluring",
+        "name": "Cluring",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.217,
+          -8.41667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pacet-id",
+        "name": "Pacet",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.533,
+          -7.66667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pasirputih",
+        "name": "Pasirputih",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.817,
+          -7.7
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "paciran",
+        "name": "Paciran",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.333,
+          -6.86667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sarangan",
+        "name": "Sarangan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.2,
+          -7.66667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Сурабая",
+        "name_zh_CN": "泗水",
+        "name_fr": "Sorabaya",
+        "name_th": "สุราบายา",
+        "id": "surabaya",
+        "name": "Surabaya",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.73681,
+          -7.292371
+        ],
+        "targets": [],
+        "hotels": 121,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Аэропорт Сурабайя Джуанда",
+            "name_de": "Flughafen Juanda",
+            "name_zh_CN": "朱安达国际机场",
+            "name_tr": "Juanda Uluslararası Havaalanı",
+            "name_fr": "aéroport international de Surabaya Juanda",
+            "name_es": "Aeropuerto internacional de Juanda",
+            "name_it": "Aeroporto Internazionale Juanda",
+            "name_th": "สนามบินนานาชาติจูอันดา",
+            "code": "sub",
+            "id": "sub",
+            "name": "Juanda International Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              112.795,
+              -7.37498
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "name_th": "ตุลุงอากุง",
+        "id": "tulungagung",
+        "name": "Tulungagung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.9,
+          -8.06667
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "blimbingsari",
+        "name": "Blimbingsari",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.333,
+          -8.31667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bondowoso",
+        "name": "Bondowoso",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.817,
+          -7.91667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "lumajang",
+        "name": "Lumajang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.217,
+          -8.13333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "banyuanget",
+        "name": "Banyuanget",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.6,
+          -7.73333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "glenmore",
+        "name": "Glenmore",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.05,
+          -8.3
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "prigen",
+        "name": "Prigen",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.617,
+          -7.68333
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sedati",
+        "name": "Sedati",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.761,
+          -7.38056
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Маланг",
+        "name_zh_CN": "玛琅",
+        "name_th": "มะลัง",
+        "id": "malang",
+        "name": "Malang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.617,
+          -7.98333
+        ],
+        "targets": [],
+        "hotels": 62,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Аэропорт Абдул Рейчмен Сале",
+            "name_de": "Flughafen Abdul Rachman Saleh",
+            "name_zh_CN": "阿卜杜勒·拉赫曼萨利赫机场",
+            "name_tr": "Abdul Rachman Saleh Havaalanı",
+            "name_fr": "Aéroport de Malang - Abdul Rahman Saleh",
+            "name_es": "Aeropuerto Abdul Rachman Saleh",
+            "name_it": "Aeroporto Rachman Saleh",
+            "code": "mlg",
+            "id": "mlg",
+            "name": "Abdul Rachman Saleh Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "karanglo",
+        "name": "Karanglo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          112.65,
+          -7.91667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tamansuruh",
+        "name": "Tamansuruh",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.283,
+          -8.2
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "kalimantan-barat",
+    "name": "West Kalimantan",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      109.4915,
+      -0.48333502
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        109.0,
+        -1.86667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        109.983,
+        0.9
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "singkawang",
+        "name": "Singkawang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.0,
+          0.9
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Понтианак",
+        "name_zh_CN": "坤甸",
+        "id": "pontianak",
+        "name": "Pontianak",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.333,
+          -0.0333333
+        ],
+        "targets": [],
+        "hotels": 28,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Supadio",
+            "name_zh_CN": "坤甸机场",
+            "name_tr": "Supadio Havaalanı",
+            "name_fr": "Aéroport de Pontianak - Supadio",
+            "name_es": "Aeropuerto de Supadio",
+            "name_it": "Aeroporto Supadio",
+            "code": "pnk",
+            "id": "pnk",
+            "name": "Supadio Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              109.404,
+              -0.150556
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "name_th": "เกอตาปัง",
+        "id": "ketapang-id",
+        "name": "Ketapang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          109.983,
+          -1.86667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Ketapang",
+            "name_zh_CN": "吉打邦机场",
+            "name_tr": "Ketapang Havaalanı",
+            "name_fr": "Aéroport de Ketapang",
+            "name_es": "Aeropuerto de Ketapang",
+            "name_it": "Aeroporto di Ketapang",
+            "code": "ktg",
+            "id": "ktg",
+            "name": "Ketapang Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "kalimantan-selatan",
+    "name": "South Kalimantan",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      115.295586,
+      -2.8191915
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        114.59117,
+        -3.455053
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        116.0,
+        -2.18333
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "batulicin",
+        "name": "Batulicin",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.0,
+          -3.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Банджармасин",
+        "name_zh_CN": "班贾尔马辛",
+        "name_th": "บันจาร์มาซิน",
+        "id": "banjarmasin",
+        "name": "Banjarmasin",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.59117,
+          -3.318889
+        ],
+        "targets": [],
+        "hotels": 22,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "丹戎",
+        "id": "tanjung-id",
+        "name": "Tanjung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          115.383,
+          -2.18333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "banjarbaru",
+        "name": "Banjarbaru",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.80124,
+          -3.455053
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "kalimantan-tengah",
+    "name": "Central Kalimantan",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      113.25,
+      -1.816665
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        111.617,
+        -2.68333
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        114.883,
+        -0.95
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "ladangsungaibinjai",
+        "name": "Ladangsungaibinjai",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.683,
+          -2.58333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "palangkaraya",
+        "name": "Palangkaraya",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.833,
+          -2.2
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Palangkaraya",
+            "name_zh_CN": "帕朗卡拉亚机场",
+            "name_tr": "Palangkaraya Havaalanı",
+            "name_fr": "Aéroport de Palangkaraya",
+            "name_es": "Aeropuerto de Palangkaraya",
+            "name_it": "Aeroporto di Palangkaraya",
+            "code": "pky",
+            "id": "pky",
+            "name": "Palangkaraya Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "guhung",
+        "name": "Guhung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.733,
+          -2.03333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pangkalanbuun",
+        "name": "Pangkalanbuun",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          111.617,
+          -2.68333
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tumbangrungan",
+        "name": "Tumbangrungan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          113.917,
+          -2.23333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "muaratewe",
+        "name": "Muaratewe",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          114.883,
+          -0.95
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "kalimantan-timur",
+    "name": "East Kalimantan",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      116.90573,
+      0.71368873
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        116.17846,
+        -1.8726224
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        117.633,
+        3.3
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "name_zh_CN": "三马林达",
+        "id": "samarinda",
+        "name": "Samarinda",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          117.143,
+          -0.493692
+        ],
+        "targets": [],
+        "hotels": 14,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Temindung",
+            "name_zh_CN": "三马林达机场",
+            "name_tr": "Temindung Havaalanı",
+            "name_fr": "Aéroport de Samarinda - Temindung",
+            "name_es": "Aeropuerto de Temindung",
+            "name_it": "Aeroporto Temindung",
+            "code": "sri",
+            "id": "sri",
+            "name": "Temindung Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "samboja",
+        "name": "Samboja",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          117.033,
+          -1.03333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Баликпапан",
+        "name_zh_CN": "巴厘巴板",
+        "id": "balikpapan",
+        "name": "Balikpapan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.83655,
+          -1.268203
+        ],
+        "targets": [],
+        "hotels": 30,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Sepinggan",
+            "name_zh_CN": "巴厘巴班机场",
+            "name_tr": "Sepinggan Havaalanı",
+            "name_fr": "Aéroport de Sepinggan",
+            "name_es": "Aeropuerto de Sepinggan",
+            "name_it": "Aeroporto Sepinggan",
+            "code": "bpn",
+            "id": "bpn",
+            "name": "Sepinggan Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              116.894,
+              -1.26806
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "tenggarong",
+        "name": "Tenggarong",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.967,
+          -0.4
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tana-paser",
+        "name": "Tana Paser",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.17846,
+          -1.8726224
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tanjungselor",
+        "name": "Tanjungselor",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          117.367,
+          2.85
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Таракан",
+        "name_zh_CN": "打拉根",
+        "id": "tarakan",
+        "name": "Tarakan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          117.633,
+          3.3
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "perjiwa",
+        "name": "Perjiwa",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          117.017,
+          -0.416667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sepinggang-kecil",
+        "name": "Sepinggang-Kecil",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.9,
+          -1.28333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "name_it": "Isole Riau",
+    "id": "kepulauan-riau",
+    "name": "Riau Archipelago",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      103.5915,
+      0.9166665
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        103.433,
+        0.833333
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        103.75,
+        1.0
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "sugi",
+        "name": "Sugi",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          103.75,
+          0.833333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tanjungbalai",
+        "name": "Tanjung Balai Karimun",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          103.433,
+          1.0
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "maluku",
+    "name": "Maluku",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      128.21527,
+      -3.6569595
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        128.18054,
+        -3.6972492
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        128.25,
+        -3.61667
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "name_ru": "Амбон",
+        "name_zh_CN": "安汶",
+        "id": "ambon",
+        "name": "Ambon",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          128.18054,
+          -3.6972492
+        ],
+        "targets": [],
+        "hotels": 9,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Pattimura",
+            "name_zh_CN": "安汶机场",
+            "name_tr": "Pattimura Havaalanı",
+            "name_fr": "Aéroport d'Ambon - Pattimura",
+            "name_es": "Aeropuerto de Pattimura",
+            "name_it": "Aeroporto Pattimura",
+            "code": "amq",
+            "id": "amq",
+            "name": "Pattimura Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "paso",
+        "name": "Paso",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          128.25,
+          -3.61667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "maluku-utara",
+    "name": "North Maluku",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      127.425,
+      0.93333495
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        127.4,
+        0.8
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        127.45,
+        1.06667
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "ternate",
+        "name": "Ternate",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          127.4,
+          0.8
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Babullah",
+            "name_zh_CN": "特尔纳特机场",
+            "name_tr": "Babullah Havaalanı",
+            "name_fr": "Aéroport de Ternate - Babullah",
+            "name_es": "Aeropuerto de Babullah",
+            "name_it": "Aeroporto Babullah",
+            "code": "tte",
+            "id": "tte",
+            "name": "Babullah Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "kampungjawa",
+        "name": "Kampungjawa",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          127.45,
+          1.06667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "nusa-tenggara-barat",
+    "name": "West Nusa Tenggara",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      117.1,
+      -8.7333355
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        116.767,
+        -8.96667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        117.433,
+        -8.5
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "name_ru": "Сумбава-Бесар",
+        "id": "sumbawa-besar",
+        "name": "Sumbawa Besar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          117.433,
+          -8.5
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sekongkang",
+        "name": "Sekongkang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          116.767,
+          -8.96667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "nusa-tenggara-timur",
+    "name": "East Nusa Tenggara",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      121.4335,
+      -9.683315
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        119.217,
+        -10.8833
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        123.65,
+        -8.48333
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "kupang-id",
+        "name": "Kupang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          123.583,
+          -10.1667
+        ],
+        "targets": [],
+        "hotels": 11,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "nembrala",
+        "name": "Nembrala",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          122.833,
+          -10.8833
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "keli",
+        "name": "Keli",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          120.833,
+          -8.81667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "oesapa-besar",
+        "name": "Oesapa-besar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          123.65,
+          -10.15
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sebayur",
+        "name": "Sebayur",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.72408,
+          -8.499879
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kelimutu",
+        "name": "Kelimutu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          121.85137,
+          -8.7419
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sumba",
+        "name": "Sumba",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          120.125,
+          -9.48552
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Лабуан Баджо",
+        "name_th": "ลาบูอันบาโจ",
+        "id": "labuhanbajo",
+        "name": "Labuan Bajo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.9,
+          -8.48333
+        ],
+        "targets": [],
+        "hotels": 30,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "maumere",
+        "name": "Maumere",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          122.233,
+          -8.61667
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Waioti",
+            "name_zh_CN": "毛梅雷机场",
+            "name_tr": "Waioti Havaalanı",
+            "name_fr": "Aéroport de Maumere - Wai Oti",
+            "name_es": "Aeropuerto de Waioti",
+            "name_it": "Aeroporto Wai Oti",
+            "code": "mof",
+            "id": "mof",
+            "name": "Waioti Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "weetebula",
+        "name": "Weetebula",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.217,
+          -9.4
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "name_fr": "Papouasie",
+    "name_es": "Papúa",
+    "id": "papua",
+    "name": "Papua",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      138.4,
+      -4.81667
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        136.1,
+        -8.46667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        140.7,
+        -1.16667
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "merauke",
+        "name": "Merauke",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          140.333,
+          -8.46667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Mopah",
+            "name_zh_CN": "马老奇机场",
+            "name_tr": "Mopah Havaalanı",
+            "name_fr": "Aéroport de Merauke - Mopah",
+            "name_es": "Aeropuerto de Mopah",
+            "name_it": "Aeroporto Mopah",
+            "code": "mkq",
+            "id": "mkq",
+            "name": "Mopah Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "name_ru": "Джаяпура",
+        "name_zh_CN": "查亚普拉",
+        "id": "jayapura",
+        "name": "Jayapura",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          140.7,
+          -2.53333
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Sentani",
+            "name_zh_CN": "桑塔尼机场",
+            "name_tr": "Sentani Havaalanı",
+            "name_fr": "Aéroport de Sentani",
+            "name_es": "Aeropuerto de Sentani",
+            "name_it": "Aeroporto Sentani",
+            "code": "djj",
+            "id": "djj",
+            "name": "Sentani Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "biak-id",
+        "name": "Biak",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          136.1,
+          -1.16667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Frans Kaisiepo",
+            "name_zh_CN": "比亚克机场",
+            "name_tr": "Frans Kaisiepo Havaalanı",
+            "name_fr": "Aéroport de Biak - Frans Kaisiepo",
+            "name_es": "Aeropuerto Frans Kaisiepo",
+            "name_it": "Aeroporto Frans Kaisiepo",
+            "code": "bik",
+            "id": "bik",
+            "name": "Frans Kaisiepo Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "name_es": "Oeste de Papúa",
+    "id": "papua-barat",
+    "name": "West Papua",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      132.325,
+      -0.7249985
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        130.567,
+        -1.13333
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        134.083,
+        -0.316667
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "besir",
+        "name": "Besir",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          130.567,
+          -0.516667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "klamono",
+        "name": "Klamono",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          131.5,
+          -1.13333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "manokwari",
+        "name": "Manokwari",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          134.083,
+          -0.866667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Rendani",
+            "name_zh_CN": "马诺夸里机场",
+            "name_tr": "Rendani Havaalanı",
+            "name_fr": "Aéroport de Manokwari - Rendani",
+            "name_es": "Aeropuerto de Rendani",
+            "name_it": "Aeroporto Rendani",
+            "code": "mkw",
+            "id": "mkw",
+            "name": "Rendani Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "sorong",
+        "name": "Sorong",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          131.27081,
+          -0.884171
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Jefman",
+            "name_zh_CN": "苏朗机场",
+            "name_tr": "Jefman Havaalanı",
+            "name_fr": "Aéroport de Sorong - Jefman",
+            "name_es": "Aeropuerto de Jefman",
+            "name_it": "Aeroporto Jefman",
+            "code": "soq",
+            "id": "soq",
+            "name": "Jefman Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "tapokreng",
+        "name": "Tapokreng",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          130.733,
+          -0.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "rabia",
+        "name": "Rabia",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          130.917,
+          -0.316667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "sulawesi-selatan",
+    "name": "South Sulawesi",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      119.93331,
+      -4.275
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        119.416626,
+        -5.56667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        120.45,
+        -2.98333
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "parepare",
+        "name": "Parepare",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.633,
+          -4.01667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Рантепао",
+        "id": "rantepao",
+        "name": "Rantepao",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.9,
+          -2.98333
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "biringkanya",
+        "name": "Biringkanya",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.5,
+          -5.08333
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bira",
+        "name": "Bira",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          120.45,
+          -5.56667
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "watampone",
+        "name": "Watampone",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          120.333,
+          -4.53333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Макасар",
+        "name_zh_CN": "马卡萨",
+        "id": "makassar",
+        "name": "Makassar",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.416626,
+          -5.133263
+        ],
+        "targets": [],
+        "hotels": 89,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Hasanuddin",
+            "name_zh_CN": "哈桑丁机场",
+            "name_tr": "Hasanuddin Havaalanı",
+            "name_fr": "Aéroport de Makassar - Hasanuddin",
+            "name_es": "Aeropuerto Hasanuddin",
+            "name_it": "Aeroporto Hasanuddin",
+            "code": "upg",
+            "id": "upg",
+            "name": "Hasanuddin Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              119.546,
+              -5.06278
+            ],
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "name_ru": "Макале",
+        "id": "makale",
+        "name": "Makale",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.85,
+          -3.1
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "sulawesi-tengah",
+    "name": "Central Sulawesi",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      121.333,
+      -0.9833315
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        119.883,
+        -1.78333
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        122.783,
+        -0.183333
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "kalolio",
+        "name": "Kalolio",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          121.633,
+          -0.183333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "luwuk",
+        "name": "Luwuk",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          122.783,
+          -0.933333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "palu",
+        "name": "Palu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          119.883,
+          -0.883333
+        ],
+        "targets": [],
+        "hotels": 15,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Mutiara",
+            "name_zh_CN": "帕卢机场",
+            "name_tr": "Mutiara Havaalanı",
+            "name_fr": "Aéroport de Palu - Mutiara",
+            "name_es": "Aeropuerto de Mutiara",
+            "name_it": "Aeroporto Mutiara",
+            "code": "plw",
+            "id": "plw",
+            "name": "Mutiara Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "tentena",
+        "name": "Tentena",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          120.65,
+          -1.78333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "popolii",
+        "name": "Popolii",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          122.2,
+          -0.216667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "sulawesi-tenggara",
+    "name": "South East Sulawesi",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      122.975,
+      -4.708335
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        122.417,
+        -5.46667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        123.533,
+        -3.95
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "name_zh_CN": "肯达利",
+        "id": "kendari",
+        "name": "Kendari",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          122.578,
+          -3.97139
+        ],
+        "targets": [],
+        "hotels": 14,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Haluoleo",
+            "name_zh_CN": "肯达里机场",
+            "name_tr": "Haluoleo Havaalanı",
+            "name_fr": "Aéroport d'Haluoleo",
+            "name_es": "Aeropuerto de Haluoleo",
+            "name_it": "Aeroporto Haluoleo",
+            "code": "kdi",
+            "id": "kdi",
+            "name": "Haluoleo Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "id": "wanci",
+        "name": "Wanci",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          123.533,
+          -5.31667
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "baubau",
+        "name": "Baubau",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          122.633,
+          -5.46667
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pipulu",
+        "name": "Pipulu",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          122.517,
+          -3.95
+        ],
+        "targets": [],
+        "hotels": 5,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "embeipua",
+        "name": "Embeipua",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          122.417,
+          -4.06667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "sulawesi-utara",
+    "name": "North Sulawesi",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      124.933,
+      1.525
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        124.683,
+        1.31667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        125.183,
+        1.73333
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "id": "tomohon",
+        "name": "Tomohon",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          124.817,
+          1.31667
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "serai",
+        "name": "Serai",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          125.0,
+          1.73333
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "tanahwangko",
+        "name": "Tanahwangko",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          124.683,
+          1.4
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bitung",
+        "name": "Bitung",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          125.183,
+          1.45
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "bunaken",
+        "name": "Bunaken",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          124.75,
+          1.616
+        ],
+        "targets": [],
+        "hotels": 12,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Манадо",
+        "name_zh_CN": "美娜多",
+        "name_th": "มานาโด",
+        "id": "manado",
+        "name": "Manado",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          124.85,
+          1.48333
+        ],
+        "targets": [],
+        "hotels": 35,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_de": "Flughafen Sam Ratulangi",
+            "name_zh_CN": "万鸦老机场",
+            "name_tr": "Sam Ratulangi Havaalanı",
+            "name_fr": "Aéroport de Sam Ratulangi",
+            "name_es": "Aeropuerto Sam Ratulangi",
+            "name_it": "Aeroporto Sam Ratulangi",
+            "code": "mdc",
+            "id": "mdc",
+            "name": "Sam Ratulangi Airport",
+            "country": {
+              "id": "id"
+            },
+            "targets": []
+          }
+        ]
+      },
+      {
+        "kind": "region",
+        "name_ru": "Вори",
+        "name_zh_CN": "沃瑞",
+        "id": "wori",
+        "name": "Wori",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          124.85,
+          1.6
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "malalayang",
+        "name": "Malalayang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          124.8,
+          1.45
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "yogyakarta",
+    "name": "Yogyakarta Province",
+    "country": {
+      "id": "id"
+    },
+    "empty": false,
+    "loc": [
+      110.4415,
+      -7.8083353
+    ],
+    "targets": [],
+    "empty": false,
+    "lt": {
+      "empty": false,
+      "loc": [
+        110.3,
+        -8.01667
+      ]
+    },
+    "rb": {
+      "empty": false,
+      "loc": [
+        110.583,
+        -7.6
+      ]
+    },
+    "childs": [
+      {
+        "kind": "region",
+        "name_ru": "Парангтритис",
+        "id": "parangtritis",
+        "name": "Parangtritis",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.35,
+          -8.01667
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sewon",
+        "name": "Sewon",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.35,
+          -7.88333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "melati",
+        "name": "Melati",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.367,
+          -7.73333
+        ],
+        "targets": [],
+        "hotels": 9,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "kalasan",
+        "name": "Kalasan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.45,
+          -7.76667
+        ],
+        "targets": [],
+        "hotels": 8,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "wonosari",
+        "name": "Wonosari",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.583,
+          -7.96667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "cangkringan",
+        "name": "Cangkringan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.45,
+          -7.66667
+        ],
+        "targets": [],
+        "hotels": 1,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "prambanan",
+        "name": "Prambanan",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.5,
+          -7.75
+        ],
+        "targets": [],
+        "hotels": 4,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "ngingas",
+        "name": "Ngingas",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.3,
+          -7.83333
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "krapyak",
+        "name": "Krapyak",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.4,
+          -7.73333
+        ],
+        "targets": [],
+        "hotels": 2,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_zh_CN": "卡里乌昂",
+        "id": "kaliurang",
+        "name": "Kaliurang",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.417,
+          -7.6
+        ],
+        "targets": [],
+        "hotels": 10,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "maguwo",
+        "name": "Maguwo",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.433,
+          -7.76667
+        ],
+        "targets": [],
+        "hotels": 3,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "pakem",
+        "name": "Pakem",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.417,
+          -7.66667
+        ],
+        "targets": [],
+        "hotels": 7,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "id": "sleman",
+        "name": "Sleman",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.333,
+          -7.7
+        ],
+        "targets": [],
+        "hotels": 6,
+        "childs": []
+      },
+      {
+        "kind": "region",
+        "name_ru": "Yogyakarta Province",
+        "name_de": "Yogyakarta Province",
+        "name_zh_CN": "Yogyakarta Province",
+        "name_tr": "Yogyakarta Province",
+        "name_fr": "Yogyakarta Province",
+        "name_es": "Provincia de Yogyakarta",
+        "name_it": "Yogyakarta Province",
+        "name_th": "Yogyakarta Province",
+        "id": "yogyakarta",
+        "name": "Yogyakarta",
+        "country": {
+          "id": "id"
+        },
+        "empty": false,
+        "loc": [
+          110.367,
+          -7.8
+        ],
+        "targets": [],
+        "hotels": 287,
+        "childs": [
+          {
+            "kind": "airport",
+            "name_ru": "Аэропорт Адисукипто",
+            "name_de": "Flughafen Adisucipto",
+            "name_zh_CN": "日惹机场",
+            "name_tr": "Adisucipto Havaalanı",
+            "name_fr": "Aéroport de Yogyakarta - Adisucipto",
+            "name_es": "Aeropuerto Adisucipto",
+            "name_it": "Aeroporto Adisucipto",
+            "name_th": "สนามบินอดิซูซิปโต",
+            "code": "jog",
+            "id": "jog",
+            "name": "Adisucipto Airport",
+            "country": {
+              "id": "id"
+            },
+            "empty": false,
+            "loc": [
+              110.432,
+              -7.78806
+            ],
+            "targets": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "region",
+    "id": "bangli",
+    "name": "Bangli",
+    "country": {
+      "id": "id"
+    },
+    "targets": [],
+    "childs": []
+  },
+  {
+    "kind": "region",
+    "name_ru": "Гианьяр",
+    "name_zh_CN": "吉亚尼亚尔",
+    "id": "gianyar",
+    "name": "Gianyar",
+    "country": {
+      "id": "id"
+    },
+    "targets": [],
+    "childs": []
+  },
+  {
+    "kind": "region",
+    "id": "jembrana",
+    "name": "Jembrana",
+    "country": {
+      "id": "id"
+    },
+    "targets": [],
+    "childs": []
+  },
+  {
+    "kind": "region",
+    "name_ru": "Табанан",
+    "name_zh_CN": "塔巴南",
+    "name_fr": "Kabupaten de Tabanan",
+    "id": "tabanan",
+    "name": "Tabanan",
+    "country": {
+      "id": "id"
+    },
+    "targets": [],
+    "childs": []
+  }
+]

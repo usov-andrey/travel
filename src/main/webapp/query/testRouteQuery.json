@@ -1,0 +1,63 @@
+{
+  "start": {
+    "place": {
+      "kind": "region",
+      "id": "TH.Bangkok",
+      "name": "Bangkok, Thailand",
+      "region": null,
+      "country": "TH",
+      "hotels": null,
+      "location": [
+        0,
+        0
+      ],
+      "targetIds": []
+    },
+    "period": {
+      "start": "2015-02-25T21:00:00.000Z",
+      "end": null
+    }
+  },
+  "stops": [
+    {
+      "place": {
+        "kind": "region",
+        "id": "PH.Manila",
+        "name": "Manila, Philippines",
+        "region": null,
+        "country": "PH",
+        "hotels": null,
+        "location": [
+          0,
+          0
+        ],
+        "targetIds": []
+      },
+      "startDate": null,
+      "nights": {
+        "start": 1
+      }
+    },
+    {
+      "place": {
+        "kind": "region",
+        "id": "HK.Hong Kong",
+        "name": "Hong Kong, Hong Kong",
+        "country": "HK",
+        "location": [
+          0,
+          0
+        ],
+        "targetIds": []
+      },
+      "nights": {
+        "start": 1
+      }
+    }
+  ],
+  "end": {
+    "period": {
+      "end": "2015-03-10T21:00:00.000Z"
+    }
+  }
+}

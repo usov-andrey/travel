@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<head>
+    <title>swagger-ui specs</title>
+    <link href="../../lib/jasmine-1.1.0/jasmine.css" rel="stylesheet" type="text/css">
+
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="../../lib/jasmine-1.1.0/jasmine.js" type="text/javascript"></script>
+    <script src="../../lib/jasmine-1.1.0/jasmine-html.js" type="text/javascript"></script>
+
+    <!-- source first, then spec -->
+    <script src="../../lib/swagger-ui.js" type="text/javascript"></script>
+    <script src="../../lib/swagger-ui-spec.js" type="text/javascript"></script>
+</head>
+<body>
+<script type="text/javascript">
+    $(function () {
+        jasmine.getEnv().addReporter(new jasmine.TrivialReporter());
+        jasmine.getEnv().execute();
+    });
+</script>
+
+<div id="swagger_ui"></div>
+
+</body>
+
+</html>

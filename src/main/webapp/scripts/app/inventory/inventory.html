@@ -1,0 +1,42 @@
+<div ng-controller="InventoryController">
+
+
+    <div class="container">
+        <h3>Inventory</h3>
+
+        <form class="form-inline">
+            <div ng-repeat="item in inventory.items">
+                <div class="form-group has-feedback">
+                    <input class="form-control" ng-model="item.itemAmount.item" placeholder="Item" required
+                           type="text" typeahead="item as item.name for item in getItems($viewValue)"/>
+                    <a class="clear form-control-feedback" ng-click="item.itemAmount.item = null">
+                        <span class="glyphicon glyphicon-remove"></span>
+                    </a>
+                </div>
+                <div class="form-group">
+                    <input class="form-control" min="1" ng-model="item.itemAmount.amount" placeholder="Amount"
+                           required type="number"/>
+                </div>
+                <div class="form-group">
+                    <label>
+                        <input ng-model="item.hq" type="checkbox">HQ
+                    </label>
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-default" ng-click="removeItem(item)" type="button"><i
+                            class="glyphicon glyphicon-remove"></i></button>
+                </div>
+            </div>
+            <button class="btn btn-default" ng-click="addItem()" type="button"><i
+                    class="glyphicon glyphicon-plus"></i>
+            </button>
+        </form>
+    </div>
+    <div class="container">
+        <button class="btn btn-default" ng-click="save()"
+                type="button">Save
+        </button>
+    </div>
+
+    <pre>Inventory: {{inventory | json}}</pre>
+</div>

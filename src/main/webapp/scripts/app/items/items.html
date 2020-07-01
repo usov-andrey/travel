@@ -1,0 +1,50 @@
+<div ng-controller="ItemsController">
+    <form class="form-inline">
+        <label>Профессия</label>
+        <select class="form-control" ng-model="search.job" ng-options="job for job in jobs"></select>
+        <input class="form-control" max="54" min="1" ng-model="search.startLevel" type="number">
+        <input class="form-control" max="54" min="1" ng-model="search.endLevel" type="number">
+        <button class="btn btn-default" ng-click="doSearch()" type="button">Search</button>
+
+        <div class="container">
+            <div class="form-group">
+                <label class="control-label">Вещи:{{totalItems.length}}</label>
+
+                <div ng-repeat="item in items">
+                    <a href="http://ffxiv.gamerescape.com/wiki/{{item.id}}" target="_blank">{{item.name}}</a>({{item.sellPrice}})
+                    <div ng-repeat="itemPrice in item.priceHistory">
+                        <input class="form-control" ng-model="itemPrice.price" placeholder="Price" type="number"/>
+                        <input class="form-control" max="10000" min="1" ng-model="itemPrice.amount"
+                               placeholder="Amount" type="number"/>
+                        <input class="form-control" ng-model="itemPrice.hq" type="checkbox"/>
+
+                        <div class="input-group">
+                            <input class="form-control" datepicker-popup
+                                   is-open="datePicker.instances[item.id + $index]" ng-model="itemPrice.saleDate"
+                                   ng-required="true" type="text"/>
+                            <span class="input-group-btn">
+								<button class="btn btn-default" ng-click="datePicker.open($event, item.id + $index)"
+                                        type="button"><i
+                                        class="glyphicon glyphicon-calendar"></i></button>
+							</span>
+                        </div>
+                        <button class="btn btn-default" ng-click="removePrice(item, itemPrice)" type="button"><i
+                                class="glyphicon glyphicon-remove"></i></button>
+                    </div>
+                    <button class="btn btn-default" ng-click="addPrice(item)" type="button"><i
+                            class="glyphicon glyphicon-plus"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <button class="btn btn-default" ng-click="save()"
+                    type="button">Save
+            </button>
+        </div>
+        <pagination ng-change="pageChanged()" ng-model="currentPage" total-items="totalItemsCount"></pagination>
+    </form>
+    <!--
+    <pre>Items: {{items | json}}</pre>
+    -->
+</div>

@@ -1,0 +1,18 @@
+{
+  "start": {
+    "place": null,
+    "period": {
+      "start": null,
+      "end": null
+    }
+  },
+  "stops": [
+    {
+      "place": null,
+      "startDate": null,
+      "nights": {
+        "start": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<div ng-controller="PlanController">
+    <form class="form-inline">
+        <select class="form-control" ng-model="search.job" ng-options="job for job in jobs"></select>
+        <input class="form-control" max="54" min="1" ng-model="search.startLevel" type="number">
+        <input class="form-control" max="54" min="1" ng-model="search.endLevel" type="number">
+        <button class="btn btn-default" ng-click="doSearch()" type="button">Search</button>
+
+        <div class="container">
+            Рецепты:{{totalItems.length}}
+            <div ng-repeat="item in items">
+                <label>{{item.recipe.result.itemId}}</label>
+                <label>{{item.profit}}</label>
+                <!--
+                <p ng-switch="item.type">
+                <span ng-switch-when="compositeWay">
+                   CompositeWay
+                </span>
+                <span ng-switch-default>
+                   {{routeItem.sourceId}} ({{routeItem.nights}})
+                </span>
+                </p>-->
+            </div>
+            <pagination ng-change="pageChanged()" ng-model="currentPage" total-items="totalItemsCount"></pagination>
+        </div>
+
+    </form>
+    <pre>Items: {{items | json}}</pre>
+</div>
